@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>x_snc_oehrm_tio_ac.tio admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 17:49:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e3f757b31bdd1010506855361a4bcb16</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OEHRM TIO Access Management</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="OEHRM TIO Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM TIO Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_app_application_e3f757b31bdd1010506855361a4bcb16</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 17:49:00</sys_updated_on>
+        <title>OEHRM TIO Access Management</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</application>
+        <file_path/>
+        <instance_id>706e2d97db40d0147527d7c8f4961929</instance_id>
+        <instance_name>vademoinstance321demo</instance_name>
+        <name>sys_app_application_e3f757b31bdd1010506855361a4bcb16</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="">Custom Applications</category><description/><device_type>browser</device_type><hint/><name/><order/><roles>x_snc_oehrm_tio_ac.tio admin</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-16 17:49:00</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e3f757b31bdd1010506855361a4bcb16</sys_id><sys_mod_count>0</sys_mod_count><sys_name>OEHRM TIO Access Management</sys_name><sys_overrides/><sys_package display_value="OEHRM TIO Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package><sys_policy/><sys_scope display_value="OEHRM TIO Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope><sys_update_name>sys_app_application_e3f757b31bdd1010506855361a4bcb16</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-16 17:49:00</sys_updated_on><title>OEHRM TIO Access Management</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-284544330</payload_hash>
+        <record_name>OEHRM TIO Access Management</record_name>
+        <reverted_from/>
+        <source>85875b331bdd1010506855361a4bcb0f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 17:49:01</sys_created_on>
+        <sys_id>bbf757b31bdd1010506855361a4bcb18</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172be3fa30f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 17:49:01</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>b3f757b3d1dd1010034feee020363718</update_guid>
+        <update_guid_history>b3f757b3d1dd1010034feee020363718:-284544330</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="OEHRM TIO Access Management">ab365dcb1b755c504662dbd3cc4bcb4c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-08 20:58:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>28626c0cb3cf4b83889f2a564b7a6cf1</sys_id>
+        <sys_metadata>e3f757b31bdd1010506855361a4bcb16</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OEHRM TIO Access Management</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_scope_delete display_value="">89e26e085493465cb1cd18725d68e710</sys_scope_delete>
+        <sys_update_name>sys_app_application_e3f757b31bdd1010506855361a4bcb16</sys_update_name>
+        <sys_update_version display_value="sys_app_application_e3f757b31bdd1010506855361a4bcb16">bbf757b31bdd1010506855361a4bcb18</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-08 20:58:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

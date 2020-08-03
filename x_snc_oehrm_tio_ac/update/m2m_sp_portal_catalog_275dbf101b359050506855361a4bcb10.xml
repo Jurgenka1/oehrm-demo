@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog">
+    <m2m_sp_portal_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>100</order>
+        <sc_catalog display_value="OEHRM Access Requests">68a9d3f71bdd1010506855361a4bcb64</sc_catalog>
+        <sp_portal display_value="OEHRM Access Requasdfest Portal">a81d33101b359050506855361a4bcb50</sp_portal>
+        <sys_class_name>m2m_sp_portal_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-30 20:04:56</sys_created_on>
+        <sys_id>275dbf101b359050506855361a4bcb10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OEHRM TIO Access Requests.OEHRM Access Request Portal</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>m2m_sp_portal_catalog_275dbf101b359050506855361a4bcb10</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-30 20:04:56</sys_updated_on>
+    </m2m_sp_portal_catalog>
+</record_update>

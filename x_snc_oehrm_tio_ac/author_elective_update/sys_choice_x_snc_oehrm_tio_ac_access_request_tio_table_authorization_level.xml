@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="authorization_level" table="x_snc_oehrm_tio_ac_access_request_tio_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>authorization_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ucern</label>
+            <language>en</language>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-02 01:54:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e707d6781b351450506855361a4bcbd9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-02 01:54:53</sys_updated_on>
+            <value>Ucern</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>authorization_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ulearn</label>
+            <language>en</language>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-02 01:54:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af0756b81b351450506855361a4bcb38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-02 01:54:53</sys_updated_on>
+            <value>Ulearn</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>authorization_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Project Portal (MethodM)</label>
+            <language>en</language>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-02 01:54:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f0756b81b351450506855361a4bcb3b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-02 01:54:53</sys_updated_on>
+            <value>Project Portal (MethodM)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>authorization_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>eService</label>
+            <language>en</language>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-02 01:54:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab0756b81b351450506855361a4bcb3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-02 01:54:53</sys_updated_on>
+            <value>eService</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>authorization_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Flashes</label>
+            <language>en</language>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-02 01:54:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b0756b81b351450506855361a4bcb41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-02 01:54:53</sys_updated_on>
+            <value>Flashes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>authorization_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Obligations</label>
+            <language>en</language>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-02 01:54:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a70756b81b351450506855361a4bcb44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-02 01:54:53</sys_updated_on>
+            <value>Obligations</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>authorization_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lights On Network</label>
+            <language>en</language>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-02 01:54:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>270756b81b351450506855361a4bcb47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-02 01:54:53</sys_updated_on>
+            <value>Lights On Network</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>authorization_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lights On Network Revenue Cycle</label>
+            <language>en</language>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-02 01:54:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a30756b81b351450506855361a4bcb4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-02 01:54:53</sys_updated_on>
+            <value>Lights On Network Revenue Cycle</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>authorization_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Millennium Access Roles</label>
+            <language>en</language>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-02 01:54:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>230756b81b351450506855361a4bcb4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-02 01:54:53</sys_updated_on>
+            <value>Millennium Access Roles</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>authorization_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>P2Sentinel</label>
+            <language>en</language>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-02 01:54:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af0756b81b351450506855361a4bcb4f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-02 01:54:53</sys_updated_on>
+            <value>P2Sentinel</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>authorization_level</element>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-02 01:54:53</sys_created_on>
+            <sys_id>6307d6781b351450506855361a4bcbda</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>authorization_level</sys_name>
+            <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+            <sys_update_name>sys_choice_x_snc_oehrm_tio_ac_access_request_tio_table_authorization_level</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-02 01:54:53</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>oehrm_landing</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>brian.clauzel</sys_created_by>
+        <sys_created_on>2020-07-16 15:47:58</sys_created_on>
+        <sys_id>1eeb9da11b46d890506855361a4bcb3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>oehrm_landing</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sp_page_1eeb9da11b46d890506855361a4bcb3e</sys_update_name>
+        <sys_updated_by>brian.clauzel</sys_updated_by>
+        <sys_updated_on>2020-07-16 15:47:58</sys_updated_on>
+        <title>OEHRM Landing</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=1eeb9da11b46d890506855361a4bcb3e"/>
+</record_update>

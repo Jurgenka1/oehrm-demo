@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 17:49:31</sys_created_on>
+        <sys_id>cb1853771bdd1010506855361a4bcb29</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>now.workspace.oehrm_tio_access_m.oehrm_tio_access_management</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_security_acl display_value="now.workspace.oehrm_tio_access_m">431853771bdd1010506855361a4bcb20</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cb1853771bdd1010506855361a4bcb29</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 17:49:31</sys_updated_on>
+        <sys_user_role display_value="oehrm_tio_access_management" name="oehrm_tio_access_management">4b1853771bdd1010506855361a4bcb24</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

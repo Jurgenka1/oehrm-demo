@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function() {
+  /* widget controller */
+  var c = this;
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css>.con {&#13;
+	&#13;
+}&#13;
+&#13;
+.text-heavy {&#13;
+  margin-top: 0px;&#13;
+  font-family: Public Sans Web,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;&#13;
+  font-size: 32px;&#13;
+  line-height: 1.4;&#13;
+  font-weight: 900!important;&#13;
+  color: #fff!important;&#13;
+}&#13;
+&#13;
+.measure-4 {&#13;
+  margin-top: 1em;&#13;
+  line-height: 1.6;&#13;
+  margin-bottom: 0;&#13;
+  max-width: 68ex!important;&#13;
+  font-family: Public Sans Web,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;&#13;
+  font-size: 18.08px;&#13;
+  color: #fff!important;&#13;
+}&#13;
+&#13;
+.usa-button {&#13;
+  text-decoration: underline;&#13;
+  margin-top: 1em;&#13;
+  color: #1b1b1b!important;&#13;
+  background-color: #face00!important;&#13;
+  width: auto;&#13;
+  font-family: Public Sans Web,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;&#13;
+  font-size: 18.08px;&#13;
+  line-height: 1;&#13;
+  -webkit-font-smoothing: antialiased;&#13;
+  -webkit-appearance: none;&#13;
+  border: 0;&#13;
+  border-radius: 4px;&#13;
+  cursor: pointer;&#13;
+  display: inline-block;&#13;
+  font-weight: 700;&#13;
+  margin-right: .5rem;&#13;
+  padding: 12px 20px;&#13;
+  text-align: center;&#13;
+}</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id>oehrm-banner-widget</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {
+  
+}]]></link>
+        <name>OEHRM Banner Widget</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {
+  /* populate the 'data' object */
+  /* e.g., data.table = $sp.getValue('table'); */
+
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>brian.clauzel</sys_created_by>
+        <sys_created_on>2020-07-16 19:23:11</sys_created_on>
+        <sys_id>a7dc46ed1b0ad890506855361a4bcb31</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>OEHRM Banner Widget</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sp_widget_a7dc46ed1b0ad890506855361a4bcb31</sys_update_name>
+        <sys_updated_by>brian.clauzel</sys_updated_by>
+        <sys_updated_on>2020-07-17 01:04:24</sys_updated_on>
+        <template><![CDATA[<div class="con">
+  <h2 class="text-heavy"> Transforming Health Care for Veterans, Revolutionizing Health Care for All </h2>
+  <p class="measure-4">Over the next 10 years, VA will move from using its current electronic health record (EHR) system — the software that stores health information and tracks all aspects of patient care — to a new system that will link in with the Department of Defense's patient records and unify all VA facilities on one system. The program that will manage VA's steady transition to the new EHR is called Electronic Health Record Modernization (EHRM).</p>
+
+
+  <a class="usa-button usa-button--inverse text-ink 	bg-yellow-20v hover:bg-yellow-10v" href="?id=sc_cat_item&sys_id=847a335c1bf19050506855361a4bcb28">
+    Submit Cerner Access Request
+  </a>
+</div>]]></template>
+    </sp_widget>
+</record_update>

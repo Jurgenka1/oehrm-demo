@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_oehrm_tio_access_requests</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 17:56:45</sys_created_on>
+        <sys_id>c5c91bf71bdd1010506855361a4bcb72</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OEHRM TIO Access Requests View</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_ui_view_c5c91bf71bdd1010506855361a4bcb72</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 17:56:45</sys_updated_on>
+        <title>OEHRM TIO Access Requests View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

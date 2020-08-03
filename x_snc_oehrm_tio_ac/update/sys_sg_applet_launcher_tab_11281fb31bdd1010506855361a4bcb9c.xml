@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="OEHRM TIO Access Management">99281fb31bdd1010506855361a4bcb9b</applet_launcher>
+        <icon display_value="Home OEHRM TIO Access Management">51281fb31bdd1010506855361a4bcb9c</icon>
+        <label>OEHRM TIO Access Management</label>
+        <roles>x_snc_oehrm_tio_ac.tio admin</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 17:49:40</sys_created_on>
+        <sys_id>11281fb31bdd1010506855361a4bcb9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OEHRM TIO Access Management</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_11281fb31bdd1010506855361a4bcb9c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 17:49:40</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

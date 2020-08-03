@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Access Requests for Cerner">a4e1fe9c1b7d5050506855361a4bcb91</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Create New Access REquest</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+        <order/>
+        <override_menu_roles>true</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_snc_oehrm_tio_ac.CDP,oehrm_tio_access_management,x_snc_oehrm_tio_ac.VA IAM,x_snc_oehrm_tio_ac.Web Security Officer,x_snc_oehrm_tio_ac.Worksteam Lead,x_snc_oehrm_tio_ac.access_request_tio_table_user,x_snc_oehrm_tio_ac.tio admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-30 17:54:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>214f17981b719050506855361a4bcb14</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Create New Access Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_app_module_214f17981b719050506855361a4bcb14</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-09 12:15:04</sys_updated_on>
+        <timeline_page/>
+        <title>Create New Access Request</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
