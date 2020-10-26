@@ -22,6 +22,7 @@ body &gt; div.sp-page-root.page.flex-column.sp-can-animate &gt; section &gt; mai
         <internal>false</internal>
         <public>false</public>
         <roles/>
+        <seo_script/>
         <short_description/>
         <sys_class_name>sp_page</sys_class_name>
         <sys_created_by>brian.clauzel</sys_created_by>
@@ -36,6 +37,7 @@ body &gt; div.sp-page-root.page.flex-column.sp-can-animate &gt; section &gt; mai
         <sys_updated_by>brian.clauzel</sys_updated_by>
         <sys_updated_on>2020-07-17 00:50:54</sys_updated_on>
         <title>OEHRM Index</title>
+        <use_seo_script>false</use_seo_script>
     </sp_page>
     <sys_translated_text action="delete_multiple" query="documentkey=8fedd1651b46d890506855361a4bcbbd"/>
 </record_update>

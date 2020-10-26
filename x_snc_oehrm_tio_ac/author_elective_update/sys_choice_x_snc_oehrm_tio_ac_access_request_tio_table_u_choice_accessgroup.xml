@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_choice action="INSERT_OR_UPDATE" field="u_choice_accessgroup" table="x_snc_oehrm_tio_ac_access_request_tio_table" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice_accessgroup</element>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-30 14:55:48</sys_created_on>
+            <sys_id>d796f6141bbd5050506855361a4bcb97</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice_accessgroup</sys_name>
+            <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+            <sys_update_name>sys_choice_x_snc_oehrm_tio_ac_access_request_tio_table_u_choice_accessgroup</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-30 14:55:48</sys_updated_on>
+        </sys_choice_set>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_choice_accessgroup</element>
@@ -57,21 +73,5 @@
             <sys_updated_on>2020-06-30 14:55:48</sys_updated_on>
             <value>formal testing team</value>
         </sys_choice>
-        <sys_choice_set action="INSERT_OR_UPDATE">
-            <element>u_choice_accessgroup</element>
-            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
-            <sys_class_name>sys_choice_set</sys_class_name>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-30 14:55:48</sys_created_on>
-            <sys_id>d796f6141bbd5050506855361a4bcb97</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>u_choice_accessgroup</sys_name>
-            <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
-            <sys_policy/>
-            <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
-            <sys_update_name>sys_choice_x_snc_oehrm_tio_ac_access_request_tio_table_u_choice_accessgroup</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-30 14:55:48</sys_updated_on>
-        </sys_choice_set>
     </sys_choice>
 </record_update>
