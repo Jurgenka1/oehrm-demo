@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="OEHRM Access Requests">561813771bdd1010506855361a4bcb87</category>
+        <columns>number,priority,state,approval,assigned_to,sys_class_name,u_choice_1,opened_by</columns>
+        <condition/>
+        <groups/>
+        <list_attributes/>
+        <order>100</order>
+        <roles>oehrm_access_management,x_snc_oehrm_tio_ac.tio admin,x_snc_oehrm_tio_ac.access_request_tio_table_user,x_snc_oehrm_tio_ac.Worksteam Lead,x_snc_oehrm_tio_ac.Web Security Officer,x_snc_oehrm_tio_ac.VA IAM,x_snc_oehrm_tio_ac.CDP,oehrm_tio_access_management</roles>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 14:37:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e8d3345d1bd46c10506855361a4bcb9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Access Requests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_aw_list_e8d3345d1bd46c10506855361a4bcb9a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-04 14:37:28</sys_updated_on>
+        <table>x_snc_oehrm_tio_ac_access_request_tio_table</table>
+        <title>Access Requests</title>
+        <workspace/>
+    </sys_aw_list>
+</record_update>

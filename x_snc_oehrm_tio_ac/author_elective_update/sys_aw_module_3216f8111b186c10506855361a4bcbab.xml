@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="DELETE">
+        <active>true</active>
+        <content/>
+        <content_attrs/>
+        <content_component/>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component/>
+        <detail_tag/>
+        <hide_until_ready>true</hide_until_ready>
+        <icon>phone-outline</icon>
+        <id>cti</id>
+        <label>Phone</label>
+        <order>300</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 14:45:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3216f8111b186c10506855361a4bcbab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cti</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_aw_module_3216f8111b186c10506855361a4bcbab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-04 14:45:15</sys_updated_on>
+        <toolbar_button/>
+        <type>win</type>
+        <workspace_config display_value="OEHRM Access Management">0e16f0111b186c10506855361a4bcb94</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="DELETE" query="document_key=3216f8111b186c10506855361a4bcbab"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</application>
+        <file_path/>
+        <instance_id>706e2d97db40d0147527d7c8f4961929</instance_id>
+        <instance_name>vademoinstance321demo</instance_name>
+        <name>sys_aw_module_3216f8111b186c10506855361a4bcbab</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module"><sys_aw_module action="INSERT_OR_UPDATE"><active>true</active><content/><content_attrs/><content_component/><content_tag/><detail/><detail_attrs/><detail_component/><detail_tag/><hide_until_ready>true</hide_until_ready><icon>phone-outline</icon><id>cti</id><label>Phone</label><order>300</order><roles/><sys_class_name>sys_aw_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-04 14:45:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3216f8111b186c10506855361a4bcbab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>cti</sys_name><sys_overrides/><sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package><sys_policy/><sys_props/><sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope><sys_update_name>sys_aw_module_3216f8111b186c10506855361a4bcbab</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-04 14:45:15</sys_updated_on><toolbar_button/><type>win</type><workspace_config display_value="OEHRM Access Management">0e16f0111b186c10506855361a4bcb94</workspace_config></sys_aw_module><sys_variable_value action="delete_multiple" query="document_key=3216f8111b186c10506855361a4bcbab"/></record_update>]]></payload>
+        <payload_hash>1980399037</payload_hash>
+        <record_name>cti</record_name>
+        <reverted_from/>
+        <source>4f6a0f1f1bded050506855361a4bcb35</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 14:45:21</sys_created_on>
+        <sys_id>1c267c111b186c10506855361a4bcb2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17593b82a140000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-04 14:45:21</sys_updated_on>
+        <type>Workspace Module</type>
+        <update_guid>fa16f8117a186c1012562a69bd32d6b6</update_guid>
+        <update_guid_history>fa16f8117a186c1012562a69bd32d6b6:-124845789,fa16f8117a186c1012562a69bd32d6b6:-124845789</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 14:45:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_aw_module">sys_aw_module</sys_db_object>
+        <sys_id>1c7b7ca322204f6fa0fc051642ae3dd9</sys_id>
+        <sys_metadata>3216f8111b186c10506855361a4bcbab</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cti</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_scope_delete display_value="">89e26e085493465cb1cd18725d68e710</sys_scope_delete>
+        <sys_update_name>sys_aw_module_3216f8111b186c10506855361a4bcbab</sys_update_name>
+        <sys_update_version display_value="sys_aw_module_3216f8111b186c10506855361a4bcbab">1c267c111b186c10506855361a4bcb2c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-04 14:45:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

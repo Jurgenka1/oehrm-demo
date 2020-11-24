@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
     <sys_aw_list action="INSERT_OR_UPDATE">
         <active>true</active>
-        <category display_value="Requests">561813771bdd1010506855361a4bcb87</category>
+        <category display_value="OEHRM Access Requests">561813771bdd1010506855361a4bcb87</category>
         <columns>number,priority,state,assigned_to,assignment_group,short_description,opened_at,opened_by</columns>
         <condition table="sc_request">active=true^assigned_toISEMPTY^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
             <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
@@ -28,6 +28,6 @@
         <sys_updated_on>2020-06-16 17:49:28</sys_updated_on>
         <table>sc_request</table>
         <title>Open - Unassigned</title>
-        <workspace display_value="OEHRM TIO Access Management">821813371bdd1010506855361a4bcb95</workspace>
+        <workspace/>
     </sys_aw_list>
 </record_update>

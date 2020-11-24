@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
     <sys_aw_list action="INSERT_OR_UPDATE">
         <active>true</active>
-        <category display_value="Requests">561813771bdd1010506855361a4bcb87</category>
+        <category display_value="OEHRM Access Requests">561813771bdd1010506855361a4bcb87</category>
         <columns>number,priority,state,assigned_to,assignment_group,short_description,opened_at,opened_by,closed_at,closed_by</columns>
         <condition/>
         <groups/>
@@ -25,6 +25,6 @@
         <sys_updated_on>2020-06-16 17:49:28</sys_updated_on>
         <table>sc_request</table>
         <title>All</title>
-        <workspace display_value="OEHRM TIO Access Management">821813371bdd1010506855361a4bcb95</workspace>
+        <workspace/>
     </sys_aw_list>
 </record_update>

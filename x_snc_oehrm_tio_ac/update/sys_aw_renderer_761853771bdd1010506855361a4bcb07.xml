@@ -20,7 +20,7 @@
         <sys_updated_on>2020-06-16 17:49:30</sys_updated_on>
         <table>kb_social_qa_answer</table>
         <type_ext display_value="record">56a1aaa10f513300bb57f4a1ff767ede</type_ext>
-        <workspace_config display_value="OEHRM TIO Access Management">821813371bdd1010506855361a4bcb95</workspace_config>
+        <workspace_config/>
         <workspace_module/>
     </sys_aw_renderer>
 </record_update>
