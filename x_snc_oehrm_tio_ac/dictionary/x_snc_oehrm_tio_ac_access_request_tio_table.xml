@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="OEHRM Access Request " max_length="40" name="x_snc_oehrm_tio_ac_access_request_tio_table" sizeclass="38" text_index="true" type="collection">
+    <element extends="task" label="OEHRM Access Request " max_length="40" name="x_snc_oehrm_tio_ac_access_request_tio_table" sizeclass="39" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Authorization Level" max_length="40" name="authorization_level" type="string">
             <choice>
                 <element inactive_on_update="false" label="Ucern" sequence="0" value="Ucern"/>
