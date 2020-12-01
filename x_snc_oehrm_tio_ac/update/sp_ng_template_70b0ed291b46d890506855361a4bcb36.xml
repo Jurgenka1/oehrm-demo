@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_ng_template">
+    <sp_ng_template action="INSERT_OR_UPDATE">
+        <id>modalLoginn</id>
+        <sp_widget display_value="OEHRM Stock Header">88ff51291b46d890506855361a4bcb1a</sp_widget>
+        <sys_class_name>sp_ng_template</sys_class_name>
+        <sys_created_by>brian.clauzel</sys_created_by>
+        <sys_created_on>2020-07-16 16:08:58</sys_created_on>
+        <sys_id>70b0ed291b46d890506855361a4bcb36</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>modalLoginn</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sp_ng_template_70b0ed291b46d890506855361a4bcb36</sys_update_name>
+        <sys_updated_by>brian.clauzel</sys_updated_by>
+        <sys_updated_on>2020-07-16 16:08:58</sys_updated_on>
+        <template><![CDATA[<div class="login_widget">
+  <sp-widget widget="data.loginWidget"></sp-widget>
+  <style>
+    .modal-content { border: 0px solid transparent; }
+  </style>
+</div>]]></template>
+    </sp_ng_template>
+</record_update>

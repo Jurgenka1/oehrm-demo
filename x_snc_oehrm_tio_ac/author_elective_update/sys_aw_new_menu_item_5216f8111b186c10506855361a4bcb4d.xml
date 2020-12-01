@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_new_menu_item">
+    <sys_aw_new_menu_item action="DELETE">
+        <active>true</active>
+        <order>100</order>
+        <sys_class_name>sys_aw_new_menu_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 14:45:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5216f8111b186c10506855361a4bcb4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_oehrm_tio_ac_access_request_tio_table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_aw_new_menu_item_5216f8111b186c10506855361a4bcb4d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-04 14:45:13</sys_updated_on>
+        <table>x_snc_oehrm_tio_ac_access_request_tio_table</table>
+        <workspace_config display_value="OEHRM Access Management">0e16f0111b186c10506855361a4bcb94</workspace_config>
+    </sys_aw_new_menu_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</application>
+        <file_path/>
+        <instance_id>706e2d97db40d0147527d7c8f4961929</instance_id>
+        <instance_name>vademoinstance321demo</instance_name>
+        <name>sys_aw_new_menu_item_5216f8111b186c10506855361a4bcb4d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_new_menu_item"><sys_aw_new_menu_item action="INSERT_OR_UPDATE"><active>true</active><order>100</order><sys_class_name>sys_aw_new_menu_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-04 14:45:13</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5216f8111b186c10506855361a4bcb4d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_oehrm_tio_ac_access_request_tio_table</sys_name><sys_overrides/><sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package><sys_policy/><sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope><sys_update_name>sys_aw_new_menu_item_5216f8111b186c10506855361a4bcb4d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-04 14:45:13</sys_updated_on><table>x_snc_oehrm_tio_ac_access_request_tio_table</table><workspace_config display_value="OEHRM Access Management">0e16f0111b186c10506855361a4bcb94</workspace_config></sys_aw_new_menu_item></record_update>]]></payload>
+        <payload_hash>1558533576</payload_hash>
+        <record_name>x_snc_oehrm_tio_ac_access_request_tio_table</record_name>
+        <reverted_from/>
+        <source>4f6a0f1f1bded050506855361a4bcb35</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 14:45:13</sys_created_on>
+        <sys_id>9616f8111b186c10506855361a4bcb4f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17593b80bd80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-04 14:45:13</sys_updated_on>
+        <type>New Record Menu Item</type>
+        <update_guid>9e16f811f5186c1077d5320bfaa3a74e</update_guid>
+        <update_guid_history>9e16f811f5186c1077d5320bfaa3a74e:1558533576</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 14:45:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_aw_new_menu_item">sys_aw_new_menu_item</sys_db_object>
+        <sys_id>13cbfeb009c64d30bc7f63b3c75c8ac4</sys_id>
+        <sys_metadata>5216f8111b186c10506855361a4bcb4d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_oehrm_tio_ac_access_request_tio_table</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_scope_delete display_value="">89e26e085493465cb1cd18725d68e710</sys_scope_delete>
+        <sys_update_name>sys_aw_new_menu_item_5216f8111b186c10506855361a4bcb4d</sys_update_name>
+        <sys_update_version display_value="sys_aw_new_menu_item_5216f8111b186c10506855361a4bcb4d">9616f8111b186c10506855361a4bcb4f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-04 14:45:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

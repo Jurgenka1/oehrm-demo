@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_signature" label="Signature" language="en" table="x_snc_oehrm_tio_ac_access_request_tio_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_signature</element>
+            <help/>
+            <hint/>
+            <label>Signature</label>
+            <language>en</language>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <plural>Signatures</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>brian.clauzel</sys_created_by>
+            <sys_created_on>2020-07-16 22:05:38</sys_created_on>
+            <sys_id>9762b2611b0ed890506855361a4bcb26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Signature</sys_name>
+            <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_oehrm_tio_ac_access_request_tio_table_u_signature_en</sys_update_name>
+            <sys_updated_by>brian.clauzel</sys_updated_by>
+            <sys_updated_on>2020-07-16 22:05:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

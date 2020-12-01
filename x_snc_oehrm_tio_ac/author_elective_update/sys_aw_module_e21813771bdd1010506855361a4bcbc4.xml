@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="DELETE">
+        <active>true</active>
+        <content/>
+        <content_attrs/>
+        <content_component display_value="sn-inbox">15415f6bc913d31534330f91530c944c</content_component>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component display_value="sn-inbox-empty">ee222d2bff222300294153bd6338f113</detail_component>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>inbox-outline</icon>
+        <id>inbox</id>
+        <label>Inbox</label>
+        <order>200</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 17:49:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e21813771bdd1010506855361a4bcbc4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>inbox</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_aw_module_e21813771bdd1010506855361a4bcbc4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 17:49:29</sys_updated_on>
+        <toolbar_button/>
+        <type>master_detail</type>
+        <workspace_config display_value="OEHRM TIO Access Management">821813371bdd1010506855361a4bcb95</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="DELETE" query="document_key=e21813771bdd1010506855361a4bcbc4"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</application>
+        <file_path/>
+        <instance_id>706e2d97db40d0147527d7c8f4961929</instance_id>
+        <instance_name>vademoinstance321demo</instance_name>
+        <name>sys_aw_module_e21813771bdd1010506855361a4bcbc4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module"><sys_aw_module action="INSERT_OR_UPDATE"><active>true</active><content/><content_attrs/><content_component display_value="sn-inbox">15415f6bc913d31534330f91530c944c</content_component><content_tag/><detail/><detail_attrs/><detail_component display_value="sn-inbox-empty">ee222d2bff222300294153bd6338f113</detail_component><detail_tag/><hide_until_ready>false</hide_until_ready><icon>inbox-outline</icon><id>inbox</id><label>Inbox</label><order>200</order><roles/><sys_class_name>sys_aw_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-16 17:49:29</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e21813771bdd1010506855361a4bcbc4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>inbox</sys_name><sys_overrides/><sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package><sys_policy/><sys_props/><sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope><sys_update_name>sys_aw_module_e21813771bdd1010506855361a4bcbc4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-16 17:49:29</sys_updated_on><toolbar_button/><type>master_detail</type><workspace_config display_value="OEHRM TIO Access Management">821813371bdd1010506855361a4bcb95</workspace_config></sys_aw_module><sys_variable_value action="delete_multiple" query="document_key=e21813771bdd1010506855361a4bcbc4"/></record_update>]]></payload>
+        <payload_hash>776935111</payload_hash>
+        <record_name>inbox</record_name>
+        <reverted_from/>
+        <source>4f6a0f1f1bded050506855361a4bcb35</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 14:41:50</sys_created_on>
+        <sys_id>305578dd1bd46c10506855361a4bcb0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17593b4f28d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-04 14:41:50</sys_updated_on>
+        <type>Workspace Module</type>
+        <update_guid>7c5578ddebd46c10d154d80b8e0f8a0d</update_guid>
+        <update_guid_history>7c5578ddebd46c10d154d80b8e0f8a0d:0,205538dd27d46c104ae88a0660f2c9fe:0,685538dd5bd46c105664ed379ba678e5:0,7a1813778edd1010c40c28155de89fdb:1557768833</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 14:41:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_aw_module">sys_aw_module</sys_db_object>
+        <sys_id>0960cad9b1534a40ab874c2ba079a400</sys_id>
+        <sys_metadata>e21813771bdd1010506855361a4bcbc4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>inbox</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_scope_delete display_value="">89e26e085493465cb1cd18725d68e710</sys_scope_delete>
+        <sys_update_name>sys_aw_module_e21813771bdd1010506855361a4bcbc4</sys_update_name>
+        <sys_update_version display_value="sys_aw_module_e21813771bdd1010506855361a4bcbc4">305578dd1bd46c10506855361a4bcb0e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-04 14:41:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

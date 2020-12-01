@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-12-01 16:19:19">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-06 13:52:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>34b1e1da1bb5d850506855361a4bcb5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA OEHRM Dashboard - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_portal_page_34b1e1da1bb5d850506855361a4bcb5e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-06 13:52:40</sys_updated_on>
+        <title>PA OEHRM Dashboard - New Tab</title>
+        <user/>
+        <view>pa_oehrm_dashboard_-_new_tab</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA OEHRM Dashboard - New Tab">34b1e1da1bb5d850506855361a4bcb5e</page>
+                <summary>Request Type by Access Group</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-07-16 15:19:27</sys_created_on>
+                <sys_id>1975d9ad1b0258904662dbd3cc4bcbfe</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-07-16 15:19:27</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-07-16 08:19:27">1975d9ad1b0258904662dbd3cc4bcbfe</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-16 15:19:27</sys_created_on>
+                        <sys_id>15751dad1b0258904662dbd3cc4bcb00</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-16 15:19:27</sys_updated_on>
+                        <value>Request Type by Access Group</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-07-16 08:19:27">1975d9ad1b0258904662dbd3cc4bcbfe</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-16 15:19:27</sys_created_on>
+                        <sys_id>1975d9ad1b0258904662dbd3cc4bcbff</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-16 15:19:27</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-07-16 08:19:27">1975d9ad1b0258904662dbd3cc4bcbfe</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-16 15:19:27</sys_created_on>
+                        <sys_id>51751dad1b0258904662dbd3cc4bcb00</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-16 15:19:27</sys_updated_on>
+                        <value>horizontal_bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-07-16 08:19:27">1975d9ad1b0258904662dbd3cc4bcbfe</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-16 15:19:27</sys_created_on>
+                        <sys_id>9d75d9ad1b0258904662dbd3cc4bcbfe</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-16 15:19:27</sys_updated_on>
+                        <value>19c41d6d1b0258904662dbd3cc4bcbf1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-07-16 08:19:27">1975d9ad1b0258904662dbd3cc4bcbfe</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-16 15:19:27</sys_created_on>
+                        <sys_id>9d75d9ad1b0258904662dbd3cc4bcbff</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-16 15:19:27</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-07-16 08:19:27">1975d9ad1b0258904662dbd3cc4bcbfe</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-16 15:19:27</sys_created_on>
+                        <sys_id>d975d9ad1b0258904662dbd3cc4bcbff</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-16 15:19:27</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA OEHRM Dashboard - New Tab">34b1e1da1bb5d850506855361a4bcb5e</page>
+                <summary>OEHRM Requests Created By Date and State</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-07-10 16:39:06</sys_created_on>
+                <sys_id>292ea2e31bb110904662dbd3cc4bcb95</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-07-10 16:39:06</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-07-10 09:39:06">292ea2e31bb110904662dbd3cc4bcb95</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-10 16:39:06</sys_created_on>
+                        <sys_id>292ea2e31bb110904662dbd3cc4bcb97</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-10 16:39:06</sys_updated_on>
+                        <value>OEHRM Requests Created By Date and State</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-07-10 09:39:06">292ea2e31bb110904662dbd3cc4bcb95</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-10 16:39:06</sys_created_on>
+                        <sys_id>2d2ea2e31bb110904662dbd3cc4bcb96</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-10 16:39:06</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-07-10 09:39:06">292ea2e31bb110904662dbd3cc4bcb95</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-10 16:39:06</sys_created_on>
+                        <sys_id>652ea2e31bb110904662dbd3cc4bcb97</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-10 16:39:06</sys_updated_on>
+                        <value>area</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-07-10 09:39:06">292ea2e31bb110904662dbd3cc4bcb95</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-10 16:39:06</sys_created_on>
+                        <sys_id>692ea2e31bb110904662dbd3cc4bcb96</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-10 16:39:06</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-07-10 09:39:06">292ea2e31bb110904662dbd3cc4bcb95</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-10 16:39:06</sys_created_on>
+                        <sys_id>a12ea2e31bb110904662dbd3cc4bcb97</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-10 16:39:06</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-07-10 09:39:06">292ea2e31bb110904662dbd3cc4bcb95</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-10 16:39:06</sys_created_on>
+                        <sys_id>ad2ea2e31bb110904662dbd3cc4bcb95</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-10 16:39:06</sys_updated_on>
+                        <value>be1e2ea31bb110904662dbd3cc4bcbf1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2020-07-10 09:39:06">292ea2e31bb110904662dbd3cc4bcb95</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-10 16:39:06</sys_created_on>
+                        <sys_id>e12ea2e31bb110904662dbd3cc4bcb98</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-10 16:39:06</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2020-07-10 09:39:06">292ea2e31bb110904662dbd3cc4bcb95</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-10 16:39:06</sys_created_on>
+                        <sys_id>ed2ea2e31bb110904662dbd3cc4bcb96</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-10 16:39:06</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA OEHRM Dashboard - New Tab">34b1e1da1bb5d850506855361a4bcb5e</page>
+                <summary>OEHRM SLA Violation Details</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-07-10 18:21:27</sys_created_on>
+                <sys_id>419503a31b3510904662dbd3cc4bcb65</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-07-10 18:21:27</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-07-10 11:21:27">419503a31b3510904662dbd3cc4bcb65</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-10 18:21:27</sys_created_on>
+                        <sys_id>059503a31b3510904662dbd3cc4bcb66</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-10 18:21:27</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-07-10 11:21:27">419503a31b3510904662dbd3cc4bcb65</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-10 18:21:27</sys_created_on>
+                        <sys_id>419503a31b3510904662dbd3cc4bcb66</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-10 18:21:27</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-07-10 11:21:27">419503a31b3510904662dbd3cc4bcb65</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-10 18:21:27</sys_created_on>
+                        <sys_id>4d9503a31b3510904662dbd3cc4bcb66</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-10 18:21:27</sys_updated_on>
+                        <value>OEHRM SLA Violation Details</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-07-10 11:21:27">419503a31b3510904662dbd3cc4bcb65</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-10 18:21:27</sys_created_on>
+                        <sys_id>899503a31b3510904662dbd3cc4bcb66</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-10 18:21:27</sys_updated_on>
+                        <value>box</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-07-10 11:21:27">419503a31b3510904662dbd3cc4bcb65</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-10 18:21:27</sys_created_on>
+                        <sys_id>c59503a31b3510904662dbd3cc4bcb65</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-10 18:21:27</sys_updated_on>
+                        <value>9175c3631b3510904662dbd3cc4bcbee</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-07-10 11:21:27">419503a31b3510904662dbd3cc4bcb65</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-10 18:21:27</sys_created_on>
+                        <sys_id>c59503a31b3510904662dbd3cc4bcb66</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-10 18:21:27</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA OEHRM Dashboard - New Tab">34b1e1da1bb5d850506855361a4bcb5e</page>
+                <summary>OEHRM SLA Violation</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-07-10 16:29:07</sys_created_on>
+                <sys_id>5fdb26231bb110904662dbd3cc4bcb0f</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-07-10 16:29:07</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-07-10 09:29:07">5fdb26231bb110904662dbd3cc4bcb0f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-10 16:29:07</sys_created_on>
+                        <sys_id>1fdb26231bb110904662dbd3cc4bcb11</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-10 16:29:07</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 2020-07-10 09:29:07">5fdb26231bb110904662dbd3cc4bcb0f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-10 16:29:07</sys_created_on>
+                        <sys_id>5bdb26231bb110904662dbd3cc4bcb11</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-10 16:29:07</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2020-07-10 09:29:07">5fdb26231bb110904662dbd3cc4bcb0f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-10 16:29:07</sys_created_on>
+                        <sys_id>5bdb66231bb110904662dbd3cc4bcb0b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-10 16:29:07</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-07-10 09:29:07">5fdb26231bb110904662dbd3cc4bcb0f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-10 16:29:07</sys_created_on>
+                        <sys_id>97db26231bb110904662dbd3cc4bcb10</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-10 16:29:07</sys_updated_on>
+                        <value>cc8be6ef1b7110904662dbd3cc4bcb23</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-07-10 09:29:07">5fdb26231bb110904662dbd3cc4bcb0f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-10 16:29:07</sys_created_on>
+                        <sys_id>97db26231bb110904662dbd3cc4bcb11</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-10 16:29:07</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-07-10 09:29:07">5fdb26231bb110904662dbd3cc4bcb0f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-10 16:29:07</sys_created_on>
+                        <sys_id>9fdb66231bb110904662dbd3cc4bcb0a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-10 16:29:07</sys_updated_on>
+                        <value>OEHRM SLA Violation</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-07-10 09:29:07">5fdb26231bb110904662dbd3cc4bcb0f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-10 16:29:07</sys_created_on>
+                        <sys_id>d3db26231bb110904662dbd3cc4bcb11</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-10 16:29:07</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-07-10 09:29:07">5fdb26231bb110904662dbd3cc4bcb0f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-07-10 16:29:07</sys_created_on>
+                        <sys_id>dbdb66231bb110904662dbd3cc4bcb0a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-07-10 16:29:07</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Test Enviroment Request">1df2d9a81b611410506855361a4bcb8f</sc_cat_item>
+        <sc_catalog display_value="OEHRM TIO Access Requests">68a9d3f71bdd1010506855361a4bcb64</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-18 16:03:40</sys_created_on>
+        <sys_id>c013d9a81b611410506855361a4bcbc1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OEHRM TIO Access Requests.Test Enviroment Request</sys_name>
+        <sys_package display_value="OEHRM TIO Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM TIO Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_c013d9a81b611410506855361a4bcbc1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-18 16:03:40</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</application>
+        <file_path/>
+        <instance_id>706e2d97db40d0147527d7c8f4961929</instance_id>
+        <instance_name>vademoinstance321demo</instance_name>
+        <name>sc_cat_item_catalog_c013d9a81b611410506855361a4bcbc1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Test Enviroment Request">1df2d9a81b611410506855361a4bcb8f</sc_cat_item><sc_catalog display_value="OEHRM TIO Access Requests">68a9d3f71bdd1010506855361a4bcb64</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-18 16:03:40</sys_created_on><sys_id>c013d9a81b611410506855361a4bcbc1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>OEHRM TIO Access Requests.Test Enviroment Request</sys_name><sys_package display_value="OEHRM TIO Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package><sys_policy/><sys_scope display_value="OEHRM TIO Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope><sys_update_name>sc_cat_item_catalog_c013d9a81b611410506855361a4bcbc1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-18 16:03:40</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>804562432</payload_hash>
+        <record_name>OEHRM TIO Access Requests.Test Enviroment Request</record_name>
+        <reverted_from/>
+        <source>85875b331bdd1010506855361a4bcb0f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-18 16:03:40</sys_created_on>
+        <sys_id>c8139da81b611410506855361a4bcb57</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172c82be8550000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-18 16:03:40</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>c0139da886611410c207b2650b707a57</update_guid>
+        <update_guid_history>c0139da886611410c207b2650b707a57:804562432</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="OEHRM TIO Access Requests.Test Enviroment Request">3a394cac1b359050506855361a4bcb6b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-30 20:56:46</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>0974527113e0473281ddd3bba4c49bd1</sys_id>
+        <sys_metadata>c013d9a81b611410506855361a4bcbc1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OEHRM TIO Access Requests.Test Enviroment Request</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_parent display_value="">1df2d9a81b611410506855361a4bcb8f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_scope_delete display_value="">89e26e085493465cb1cd18725d68e710</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_c013d9a81b611410506855361a4bcbc1</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_c013d9a81b611410506855361a4bcbc1">c8139da81b611410506855361a4bcb57</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-30 20:56:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

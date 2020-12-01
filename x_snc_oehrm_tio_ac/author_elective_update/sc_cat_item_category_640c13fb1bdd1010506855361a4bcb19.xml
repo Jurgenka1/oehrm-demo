@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="eServices">c9eb5fbb1bdd1010506855361a4bcb29</sc_cat_item>
+        <sc_category display_value="Cerner">d2da177b1bdd1010506855361a4bcbbe</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 18:06:33</sys_created_on>
+        <sys_id>640c13fb1bdd1010506855361a4bcb19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cerner.eServices</sys_name>
+        <sys_package display_value="OEHRM TIO Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM TIO Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sc_cat_item_category_640c13fb1bdd1010506855361a4bcb19</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 18:06:33</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</application>
+        <file_path/>
+        <instance_id>706e2d97db40d0147527d7c8f4961929</instance_id>
+        <instance_name>vademoinstance321demo</instance_name>
+        <name>sc_cat_item_category_640c13fb1bdd1010506855361a4bcb19</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="eServices">c9eb5fbb1bdd1010506855361a4bcb29</sc_cat_item><sc_category display_value="Cerner">d2da177b1bdd1010506855361a4bcbbe</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-16 18:06:33</sys_created_on><sys_id>640c13fb1bdd1010506855361a4bcb19</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Cerner.eServices</sys_name><sys_package display_value="OEHRM TIO Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package><sys_policy/><sys_scope display_value="OEHRM TIO Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope><sys_update_name>sc_cat_item_category_640c13fb1bdd1010506855361a4bcb19</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-16 18:06:33</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-14704980</payload_hash>
+        <record_name>Cerner.eServices</record_name>
+        <reverted_from/>
+        <source>85875b331bdd1010506855361a4bcb0f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 18:06:33</sys_created_on>
+        <sys_id>680c13fb1bdd1010506855361a4bcb1c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172be4fb2960000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 18:06:33</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>600c13fb5ddd10101fba8ea7588fd11c</update_guid>
+        <update_guid_history>600c13fb5ddd10101fba8ea7588fd11c:-14704980</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Cerner.eServices">2b47ae501b7d5050506855361a4bcbe2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-30 13:48:56</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>57f979b3ca514b88a9aa91c1f840c840</sys_id>
+        <sys_metadata>640c13fb1bdd1010506855361a4bcb19</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cerner.eServices</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_parent display_value="">c9eb5fbb1bdd1010506855361a4bcb29</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_scope_delete display_value="">89e26e085493465cb1cd18725d68e710</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_640c13fb1bdd1010506855361a4bcb19</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_640c13fb1bdd1010506855361a4bcb19">680c13fb1bdd1010506855361a4bcb1c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-30 13:48:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

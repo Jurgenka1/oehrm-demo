@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="*Test">7bded3951b129810506855361a4bcb42</sc_cat_item>
+        <sc_catalog display_value="Cloud Resources">ff804c08d7700200936043d60e610304</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 16:57:27</sys_created_on>
+        <sys_id>cefe97951b129810506855361a4bcbd9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cloud Resources.*Test</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_cefe97951b129810506855361a4bcbd9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 16:57:27</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</application>
+        <file_path/>
+        <instance_id>706e2d97db40d0147527d7c8f4961929</instance_id>
+        <instance_name>vademoinstance321demo</instance_name>
+        <name>sc_cat_item_catalog_cefe97951b129810506855361a4bcbd9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="*Test">7bded3951b129810506855361a4bcb42</sc_cat_item><sc_catalog display_value="Cloud Resources">ff804c08d7700200936043d60e610304</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-28 16:57:27</sys_created_on><sys_id>cefe97951b129810506855361a4bcbd9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Cloud Resources.*Test</sys_name><sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package><sys_policy/><sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope><sys_update_name>sc_cat_item_catalog_cefe97951b129810506855361a4bcbd9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-28 16:57:27</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1302190205</payload_hash>
+        <record_name>Cloud Resources.*Test</record_name>
+        <reverted_from/>
+        <source>85875b331bdd1010506855361a4bcb0f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 16:57:27</sys_created_on>
+        <sys_id>cefe97951b129810506855361a4bcbdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173965b861b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 16:57:27</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>c6fe97959712981086ad3826143f8cdc</update_guid>
+        <update_guid_history>c6fe97959712981086ad3826143f8cdc:1302190205</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Cloud Resources.*Test">a26f53d51b129810506855361a4bcb72</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 16:59:24</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>2292430698d6478698af44be4d507ec4</sys_id>
+        <sys_metadata>cefe97951b129810506855361a4bcbd9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cloud Resources.*Test</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_parent display_value="">7bded3951b129810506855361a4bcb42</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_scope_delete display_value="">89e26e085493465cb1cd18725d68e710</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_cefe97951b129810506855361a4bcbd9</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_cefe97951b129810506855361a4bcbd9">cefe97951b129810506855361a4bcbdc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 16:59:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

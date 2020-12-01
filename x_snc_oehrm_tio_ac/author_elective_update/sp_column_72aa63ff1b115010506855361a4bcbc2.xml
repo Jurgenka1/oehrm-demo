@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <size>6</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">b2aa63ff1b115010506855361a4bcbbd</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 19:10:36</sys_created_on>
+        <sys_id>72aa63ff1b115010506855361a4bcbc2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="OEHRM TIO Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM TIO Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sp_column_72aa63ff1b115010506855361a4bcbc2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-18 16:38:35</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</application>
+        <file_path/>
+        <instance_id>706e2d97db40d0147527d7c8f4961929</instance_id>
+        <instance_name>vademoinstance321demo</instance_name>
+        <name>sp_column_72aa63ff1b115010506855361a4bcbc2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>6</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">b2aa63ff1b115010506855361a4bcbbd</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-16 19:10:36</sys_created_on><sys_id>72aa63ff1b115010506855361a4bcbc2</sys_id><sys_mod_count>1</sys_mod_count><sys_name>1</sys_name><sys_package display_value="OEHRM TIO Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package><sys_policy/><sys_scope display_value="OEHRM TIO Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope><sys_update_name>sp_column_72aa63ff1b115010506855361a4bcbc2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-18 16:38:35</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-2087298904</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>85875b331bdd1010506855361a4bcb0f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-18 16:38:35</sys_created_on>
+        <sys_id>af0b9d241ba11410506855361a4bcb81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172c84be02e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-18 16:38:35</sys_updated_on>
+        <type>Column</type>
+        <update_guid>670b9d2437a11410a875d5a8519da081</update_guid>
+        <update_guid_history>670b9d2437a11410a875d5a8519da081:-2087298904,feaa63ff63115010380ab7983e7811c2:-407956506</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">20dd5d281ba11410506855361a4bcb2a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-18 16:50:40</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>3367d4e4a01344ebae0a9f60aca6ace9</sys_id>
+        <sys_metadata>72aa63ff1b115010506855361a4bcbc2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_scope_delete display_value="">89e26e085493465cb1cd18725d68e710</sys_scope_delete>
+        <sys_update_name>sp_column_72aa63ff1b115010506855361a4bcbc2</sys_update_name>
+        <sys_update_version display_value="sp_column_72aa63ff1b115010506855361a4bcbc2">af0b9d241ba11410506855361a4bcb81</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-18 16:50:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

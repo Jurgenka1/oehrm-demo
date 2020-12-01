@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Show/Hide search component in workspace header</description>
+        <name>ws_active_search</name>
+        <page display_value="OEHRM Access Management">3e66f4511b186c10506855361a4bcb94</page>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 14:46:38</sys_created_on>
+        <sys_id>ba66f4511b186c10506855361a4bcb98</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ws_active_search</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_ux_page_property_ba66f4511b186c10506855361a4bcb98</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-04 14:46:38</sys_updated_on>
+        <type>boolean</type>
+        <unique_name>x_snc_oehrm_tio_ac.ws_active_search</unique_name>
+        <value>true</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=ba66f4511b186c10506855361a4bcb98"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</application>
+        <file_path/>
+        <instance_id>706e2d97db40d0147527d7c8f4961929</instance_id>
+        <instance_name>vademoinstance321demo</instance_name>
+        <name>sys_ux_page_property_ba66f4511b186c10506855361a4bcb98</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Show/Hide search component in workspace header</description><name>ws_active_search</name><page display_value="OEHRM Access Management">3e66f4511b186c10506855361a4bcb94</page><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-04 14:46:38</sys_created_on><sys_id>ba66f4511b186c10506855361a4bcb98</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ws_active_search</sys_name><sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package><sys_policy/><sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope><sys_update_name>sys_ux_page_property_ba66f4511b186c10506855361a4bcb98</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-04 14:46:38</sys_updated_on><type>boolean</type><unique_name>x_snc_oehrm_tio_ac.ws_active_search</unique_name><value>true</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=ba66f4511b186c10506855361a4bcb98"/></record_update>]]></payload>
+        <payload_hash>-1171790305</payload_hash>
+        <record_name>ws_active_search</record_name>
+        <reverted_from/>
+        <source>4f6a0f1f1bded050506855361a4bcb35</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 14:46:38</sys_created_on>
+        <sys_id>4366f4511b186c10506855361a4bcb9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17593b955ac0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-04 14:46:38</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>4b66f451d3186c10ce0de7bd3d9c1799</update_guid>
+        <update_guid_history>4b66f451d3186c10ce0de7bd3d9c1799:-1171790305</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 14:46:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>0960994ea0e84af880717be3abceb590</sys_id>
+        <sys_metadata>ba66f4511b186c10506855361a4bcb98</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ws_active_search</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_scope_delete display_value="">89e26e085493465cb1cd18725d68e710</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_ba66f4511b186c10506855361a4bcb98</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_ba66f4511b186c10506855361a4bcb98">4366f4511b186c10506855361a4bcb9a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-04 14:46:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
