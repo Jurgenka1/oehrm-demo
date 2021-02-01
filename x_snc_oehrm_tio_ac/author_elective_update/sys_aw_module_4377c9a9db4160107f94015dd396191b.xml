@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="DELETE">
+        <active>true</active>
+        <content/>
+        <content_attrs/>
+        <content_component/>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component/>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>inbox-outline</icon>
+        <id>inbox</id>
+        <label>Inbox</label>
+        <order>200</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-12 17:26:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4377c9a9db4160107f94015dd396191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>inbox</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_aw_module_4377c9a9db4160107f94015dd396191b</sys_update_name>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-12 17:26:46</sys_updated_on>
+        <toolbar_button/>
+        <type>master_detail</type>
+        <workspace_config display_value="OEHRM Access Management">e67789a9db4160107f94015dd3961996</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="DELETE" query="document_key=4377c9a9db4160107f94015dd396191b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</application>
+        <file_path/>
+        <instance_id>cfe0f47cdbb2c494f492c597059619a2</instance_id>
+        <instance_name>nowmardemo</instance_name>
+        <name>sys_aw_module_4377c9a9db4160107f94015dd396191b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module"><sys_aw_module action="INSERT_OR_UPDATE"><active>true</active><content/><content_attrs/><content_component/><content_tag/><detail/><detail_attrs/><detail_component/><detail_tag/><hide_until_ready>false</hide_until_ready><icon>inbox-outline</icon><id>inbox</id><label>Inbox</label><order>200</order><roles/><sys_class_name>sys_aw_module</sys_class_name><sys_created_by>Jurgen.Kanagalingam</sys_created_by><sys_created_on>2020-12-12 17:26:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4377c9a9db4160107f94015dd396191b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>inbox</sys_name><sys_overrides/><sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package><sys_policy/><sys_props/><sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope><sys_update_name>sys_aw_module_4377c9a9db4160107f94015dd396191b</sys_update_name><sys_updated_by>Jurgen.Kanagalingam</sys_updated_by><sys_updated_on>2020-12-12 17:26:46</sys_updated_on><toolbar_button/><type>master_detail</type><workspace_config display_value="OEHRM Access Management">e67789a9db4160107f94015dd3961996</workspace_config></sys_aw_module><sys_variable_value action="delete_multiple" query="document_key=4377c9a9db4160107f94015dd396191b"/></record_update>]]></payload>
+        <payload_hash>1575742662</payload_hash>
+        <record_name>inbox</record_name>
+        <reverted_from/>
+        <source>8e741552dbf468107f94015dd396194e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-12 17:26:51</sys_created_on>
+        <sys_id>dc870da9db4160107f94015dd3961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17657fdae480000001</sys_recorded_at>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-12 17:26:51</sys_updated_on>
+        <type>Workspace Module</type>
+        <update_guid>0f77c9a9cf416010c0347b47a9036726</update_guid>
+        <update_guid_history>0f77c9a9cf416010c0347b47a9036726:-1502608425,0f77c9a9cf416010c0347b47a9036726:-1502608425</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-12 17:26:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_aw_module">sys_aw_module</sys_db_object>
+        <sys_id>0273400c3c5e4fda801af45412560911</sys_id>
+        <sys_metadata>4377c9a9db4160107f94015dd396191b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>inbox</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_scope_delete display_value="">89e26e085493465cb1cd18725d68e710</sys_scope_delete>
+        <sys_update_name>sys_aw_module_4377c9a9db4160107f94015dd396191b</sys_update_name>
+        <sys_update_version display_value="sys_aw_module_4377c9a9db4160107f94015dd396191b">dc870da9db4160107f94015dd3961900</sys_update_version>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-12 17:26:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

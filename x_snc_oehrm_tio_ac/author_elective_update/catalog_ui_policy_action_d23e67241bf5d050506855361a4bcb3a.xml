@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="OEHRM Cerner Access Request">847a335c1bf19050506855361a4bcb28</catalog_item>
+        <catalog_variable>IO:3ebdc0e41b759050506855361a4bcb9a</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-01 13:37:35</sys_created_on>
+        <sys_id>d23e67241bf5d050506855361a4bcb3a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_choice_cmo</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_d23e67241bf5d050506855361a4bcb3a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-01 13:37:35</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide CMIO dependent field">09edebe01bf5d050506855361a4bcb48</ui_policy>
+        <variable>u_choice_cmo</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</application>
+        <file_path/>
+        <instance_id>cfe0f47cdbb2c494f492c597059619a2</instance_id>
+        <instance_name>nowmardemo</instance_name>
+        <name>catalog_ui_policy_action_d23e67241bf5d050506855361a4bcb3a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="OEHRM Cerner Access Request">847a335c1bf19050506855361a4bcb28</catalog_item>
+        <catalog_variable>IO:3ebdc0e41b759050506855361a4bcb9a</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-01 13:37:35</sys_created_on>
+        <sys_id>d23e67241bf5d050506855361a4bcb3a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_choice_cmo</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_d23e67241bf5d050506855361a4bcb3a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-01 13:37:35</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide CMIO dependent field">09edebe01bf5d050506855361a4bcb48</ui_policy>
+        <variable>u_choice_cmo</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>]]></payload>
+        <payload_hash>-2035117739</payload_hash>
+        <record_name>u_choice_cmo</record_name>
+        <reverted_from/>
+        <source>5293d99edbb468107f94015dd3961972</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-02 15:59:49</sys_created_on>
+        <sys_id>c8b311dedbb468107f94015dd39619e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176242e67910000001</sys_recorded_at>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-02 15:59:49</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>88b311dee7b468109b8c73d25f56e8e7</update_guid>
+        <update_guid_history>88b311dee7b468109b8c73d25f56e8e7:-2035117739</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="u_choice_cmo">97a05827db3d20d07f94015dd39619f2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2021-01-25 01:22:15</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>07a8ed9c32bc4472870cf1444985da44</sys_id>
+        <sys_metadata>d23e67241bf5d050506855361a4bcb3a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_choice_cmo</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_scope_delete display_value="">89e26e085493465cb1cd18725d68e710</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_d23e67241bf5d050506855361a4bcb3a</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_d23e67241bf5d050506855361a4bcb3a">c8b311dedbb468107f94015dd39619e7</sys_update_version>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2021-01-25 01:22:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

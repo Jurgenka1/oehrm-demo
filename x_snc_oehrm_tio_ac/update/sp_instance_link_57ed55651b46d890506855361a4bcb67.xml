@@ -16,7 +16,7 @@
         <short_description>Check in to an IT walk-up location to make a request or report a problem</short_description>
         <size>md</size>
         <sp_column display_value="4">97ed55651b46d890506855361a4bcb65</sp_column>
-        <sp_page display_value="walkup_online_checkin">7faf7ffe3b3303001d132c2b54efc4c1</sp_page>
+        <sp_page display_value="">7faf7ffe3b3303001d132c2b54efc4c1</sp_page>
         <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
         <sys_class_name>sp_instance_link</sys_class_name>
         <sys_created_by>brian.clauzel</sys_created_by>

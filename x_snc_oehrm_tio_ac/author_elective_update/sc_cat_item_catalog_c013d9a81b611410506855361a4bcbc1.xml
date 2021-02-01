@@ -41,7 +41,7 @@
         <update_guid_history>c0139da886611410c207b2650b707a57:804562432</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="OEHRM TIO Access Requests.Test Enviroment Request">3a394cac1b359050506855361a4bcb6b</sys_audit_delete>
+        <sys_audit_delete display_value="">3a394cac1b359050506855361a4bcb6b</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-30 20:56:46</sys_created_on>

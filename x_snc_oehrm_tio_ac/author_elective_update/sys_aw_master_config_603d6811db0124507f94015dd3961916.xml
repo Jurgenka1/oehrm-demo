@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="DELETE">
+        <active>true</active>
+        <brand_color/>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry/>
+        <description/>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data/>
+        <hide_search_results_count>false</hide_search_results_count>
+        <name>OEHRM Access Management</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color/>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-11 20:53:24</sys_created_on>
+        <sys_id>603d6811db0124507f94015dd3961916</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OEHRM Access Management</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_aw_master_config_603d6811db0124507f94015dd3961916</sys_update_name>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-11 20:53:24</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo/>
+        <workspace_url>oehrm_access_manag</workspace_url>
+    </sys_aw_master_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</application>
+        <file_path/>
+        <instance_id>cfe0f47cdbb2c494f492c597059619a2</instance_id>
+        <instance_name>nowmardemo</instance_name>
+        <name>sys_aw_master_config_603d6811db0124507f94015dd3961916</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config"><sys_aw_master_config action="INSERT_OR_UPDATE"><active>true</active><brand_color/><compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page><compiled_page_registry/><description/><global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search><global_search_data/><hide_search_results_count>false</hide_search_results_count><name>OEHRM Access Management</name><navigation_type>tab</navigation_type><notifications_enabled>true</notifications_enabled><primary_color/><search_enabled>true</search_enabled><sys_class_name>sys_aw_master_config</sys_class_name><sys_created_by>Jurgen.Kanagalingam</sys_created_by><sys_created_on>2020-12-11 20:53:24</sys_created_on><sys_id>603d6811db0124507f94015dd3961916</sys_id><sys_mod_count>0</sys_mod_count><sys_name>OEHRM Access Management</sys_name><sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package><sys_policy/><sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope><sys_update_name>sys_aw_master_config_603d6811db0124507f94015dd3961916</sys_update_name><sys_updated_by>Jurgen.Kanagalingam</sys_updated_by><sys_updated_on>2020-12-11 20:53:24</sys_updated_on><user_preference_controls_enabled>true</user_preference_controls_enabled><workspace_logo/><workspace_url>oehrm_access_manag</workspace_url></sys_aw_master_config></record_update>]]></payload>
+        <payload_hash>-975000884</payload_hash>
+        <record_name>OEHRM Access Management</record_name>
+        <reverted_from/>
+        <source>a1866cb4db5da0106dd2eb41ca96195b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-11 20:53:40</sys_created_on>
+        <sys_id>4c4dac11db0124507f94015dd396190f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>1765394a8210000001</sys_recorded_at>
+        <sys_updated_by>Marc.Mouries</sys_updated_by>
+        <sys_updated_on>2020-12-22 17:23:08</sys_updated_on>
+        <type>Workspace</type>
+        <update_guid>f03de8112d012450ed4fb86593af4c8b</update_guid>
+        <update_guid_history>f03de8112d012450ed4fb86593af4c8b:1518110219,f03de8112d012450ed4fb86593af4c8b:1518110219,f03de8112d012450ed4fb86593af4c8b:1518110219</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-11 20:53:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_aw_master_config">sys_aw_master_config</sys_db_object>
+        <sys_id>249c41eb1de74452b5861f2d06847179</sys_id>
+        <sys_metadata>603d6811db0124507f94015dd3961916</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OEHRM Access Management</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_scope_delete display_value="">89e26e085493465cb1cd18725d68e710</sys_scope_delete>
+        <sys_update_name>sys_aw_master_config_603d6811db0124507f94015dd3961916</sys_update_name>
+        <sys_update_version display_value="sys_aw_master_config_603d6811db0124507f94015dd3961916">4c4dac11db0124507f94015dd396190f</sys_update_version>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-11 20:53:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

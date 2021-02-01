@@ -22,6 +22,7 @@
         <template>priority={{Request priority}}^state={{Request state}}^short_description={{Request short_description}}^description={{Request description}}^assigned_to={{Request assigned_to}}^assignment_group={{Request assignment_group}}^company={{Request company}}^location={{Request location}}^cmdb_ci={{Request cmdb_ci}}^business_service={{Request business_service}}^EQ</template>
         <type>update</type>
         <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
     </sys_sg_write_back_action_item>
     <sys_translated_text action="delete_multiple" query="documentkey=192893771bdd1010506855361a4bcb3a"/>
 </record_update>

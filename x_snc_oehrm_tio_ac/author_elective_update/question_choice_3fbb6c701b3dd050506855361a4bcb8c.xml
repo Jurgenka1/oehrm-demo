@@ -80,7 +80,7 @@
         <update_guid_history>40cb6c70ce3dd05049e55b5d39b5a48f:-383474890</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="National">a1eb60b01b3dd050506855361a4bcb2d</sys_audit_delete>
+        <sys_audit_delete display_value="">a1eb60b01b3dd050506855361a4bcb2d</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-01 18:06:43</sys_created_on>

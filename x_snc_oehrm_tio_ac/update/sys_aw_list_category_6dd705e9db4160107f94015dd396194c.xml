@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list_category">
+    <sys_aw_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <order>100</order>
+        <sys_class_name>sys_aw_list_category</sys_class_name>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-12 17:28:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6dd705e9db4160107f94015dd396194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OEHRM Access Requests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_aw_list_category_6dd705e9db4160107f94015dd396194c</sys_update_name>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-12 17:28:18</sys_updated_on>
+        <title>OEHRM Access Requests</title>
+        <workspace display_value="EHRM Access Management">19d741e9db4160107f94015dd39619be</workspace>
+    </sys_aw_list_category>
+</record_update>

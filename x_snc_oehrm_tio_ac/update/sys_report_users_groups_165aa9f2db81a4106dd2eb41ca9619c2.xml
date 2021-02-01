@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Request Type Trending By Created Date">565aa9f2db81a4106dd2eb41ca9619c1</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>joseph.laudon</sys_created_by>
+        <sys_created_on>2020-12-16 17:11:29</sys_created_on>
+        <sys_id>165aa9f2db81a4106dd2eb41ca9619c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>565aa9f2db81a4106dd2eb41ca9619c1</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_report_users_groups_165aa9f2db81a4106dd2eb41ca9619c2</sys_update_name>
+        <sys_updated_by>joseph.laudon</sys_updated_by>
+        <sys_updated_on>2020-12-16 17:11:29</sys_updated_on>
+        <user_id display_value="Joseph Laudon">f45eef45db0de0507f94015dd39619a6</user_id>
+    </sys_report_users_groups>
+</record_update>

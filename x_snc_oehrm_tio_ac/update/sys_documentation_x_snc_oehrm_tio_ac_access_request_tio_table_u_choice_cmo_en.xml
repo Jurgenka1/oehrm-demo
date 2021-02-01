@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_choice_cmo" label="CMO/CMIO Type" language="en" table="x_snc_oehrm_tio_ac_access_request_tio_table">
+    <sys_documentation element="u_choice_cmo" label="VA Station" language="en" table="x_snc_oehrm_tio_ac_access_request_tio_table">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>u_choice_cmo</element>
             <help/>
             <hint/>
-            <label>CMO/CMIO Type</label>
+            <label>VA Station</label>
             <language>en</language>
             <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
-            <plural>CMO/CMIO Types</plural>
+            <plural>VA Stations</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-06-30 14:55:45</sys_created_on>
-            <sys_id>1a96b6141bbd5050506855361a4bcbf4</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>CMO/CMIO Type</sys_name>
+            <sys_id>67931d9edbb468107f94015dd3961927</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>VA Station</sys_name>
             <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
             <sys_policy/>
             <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
             <sys_update_name>sys_documentation_x_snc_oehrm_tio_ac_access_request_tio_table_u_choice_cmo_en</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-30 14:55:45</sys_updated_on>
+            <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+            <sys_updated_on>2021-01-25 00:41:47</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

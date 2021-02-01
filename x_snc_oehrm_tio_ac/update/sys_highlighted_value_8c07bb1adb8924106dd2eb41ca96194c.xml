@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_highlighted_value">
+    <sys_highlighted_value action="INSERT_OR_UPDATE">
+        <field>background_check_result</field>
+        <sys_class_name>sys_highlighted_value</sys_class_name>
+        <sys_created_by>Marc.Mouries</sys_created_by>
+        <sys_created_on>2020-12-15 14:09:28</sys_created_on>
+        <sys_id>8c07bb1adb8924106dd2eb41ca96194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_highlighted_value_8c07bb1adb8924106dd2eb41ca96194c</sys_update_name>
+        <sys_updated_by>Marc.Mouries</sys_updated_by>
+        <sys_updated_on>2020-12-15 14:09:28</sys_updated_on>
+        <table>x_snc_oehrm_tio_ac_access_request_tio_table</table>
+        <workspace display_value="EHRM Access Management">19d741e9db4160107f94015dd39619be</workspace>
+    </sys_highlighted_value>
+</record_update>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "ckinbhhjjmggaaaaaaccddhhhffkwpffwqeei",
+  "elementLabel" : "Report/PA Widget",
+  "propertyValues" : {
+    "label" : "",
+    "reportSysId" : "2a320059db4de0507f94015dd39619c9",
+    "paWidgetSysId" : "",
+    "variant" : "auto",
+    "border" : false,
+    "refreshInterval" : "",
+    "isRealtime" : false,
+    "refreshFrequency" : "0",
+    "kpiDetailsNavigation" : false
+  },
+  "slot" : "ckinb79m600033h752wkrn2qs",
+  "definition" : {
+    "id" : "7dbc62b27efa88d6d910579a68c7a65d",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null
+}, {
+  "elementId" : "ckinbiikaaxaaaaaahhddhhhffddtaiffaawz",
+  "elementLabel" : "Report/PA Widget",
+  "propertyValues" : {
+    "label" : "",
+    "reportSysId" : "19c41d6d1b0258904662dbd3cc4bcbf1",
+    "paWidgetSysId" : "",
+    "variant" : "auto",
+    "border" : false,
+    "refreshInterval" : "",
+    "isRealtime" : false,
+    "refreshFrequency" : "0",
+    "kpiDetailsNavigation" : false
+  },
+  "slot" : "ckinb8k0x00083h75o2cbcp6b",
+  "definition" : {
+    "id" : "7dbc62b27efa88d6d910579a68c7a65d",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null
+}, {
+  "elementId" : "ckinbjjhlpaaaaaabddhhhfffwvppjqbb",
+  "elementLabel" : "Report/PA Widget",
+  "propertyValues" : {
+    "label" : "",
+    "reportSysId" : "be1e2ea31bb110904662dbd3cc4bcbf1",
+    "paWidgetSysId" : "",
+    "variant" : "auto",
+    "border" : false,
+    "refreshInterval" : "",
+    "isRealtime" : false,
+    "refreshFrequency" : "0",
+    "kpiDetailsNavigation" : false
+  },
+  "slot" : "ckinb9hlp000c3h75wbz3dctf",
+  "definition" : {
+    "id" : "7dbc62b27efa88d6d910579a68c7a65d",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null
+}, {
+  "elementId" : "ckinbadcjjaaaaaafddhhhffggcffpmddbbq",
+  "elementLabel" : "Container",
+  "propertyValues" : {
+    "label" : "",
+    "bare" : false,
+    "type" : "default",
+    "bgvar" : "",
+    "border" : false,
+    "canCollapse" : false,
+    "collapsed" : false
+  },
+  "slot" : "ckinbadc9000g3h75mzoo46cz",
+  "definition" : {
+    "id" : "80653115e23949b501e719ae9b0b42a6",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : {
+    "layout" : {
+      "default" : {
+        "type" : "rowColumn",
+        "root" : {"type":"row","columns":[{"type":"column","slotName":"ckinbahzh000l3h75wfjwd6r2","size":"12","rows":[],"id":"ckinbahzh000n3h754veximsr"}],"id":"ckinbahzh000m3h755x5wfpbh"},
+        "items" : null,
+        "rules" : null,
+        "styles" : null
+      }
+    },
+    "composition" : [ {
+      "elementId" : "ckinbahzhaaaaaakddhhhffggaayqggbbnk",
+      "elementLabel" : "List",
+      "propertyValues" : {
+        "listTitle" : "All Active Tasks",
+        "table" : "x_snc_oehrm_tio_ac_access_request_tio_table",
+        "query" : null,
+        "columns" : null,
+        "limit" : "5",
+        "maxColumns" : "5",
+        "page" : "1",
+        "hideHeader" : false,
+        "hideTitle" : false,
+        "hideTitleRowCount" : false,
+        "hideRefreshButton" : false,
+        "hideLastRefreshedText" : false,
+        "hideLinks" : false,
+        "hideViewAll" : false,
+        "hideHighlightedValues" : false,
+        "hideCellFilter" : true,
+        "hideCheckboxHover" : true,
+        "hideColumnFiltering" : true,
+        "hideColumnGrouping" : true,
+        "hideColumnSorting" : false,
+        "hideFilterPanel" : false,
+        "hideFirstPage" : false,
+        "hideLastPage" : false,
+        "hideLimitSelector" : false,
+        "hideMenuButton" : true,
+        "hideMultiEdit" : false,
+        "hideDeclarativeActions" : false,
+        "hideNextPage" : false,
+        "hidePages" : false,
+        "hidePagination" : true,
+        "hidePanel" : true,
+        "hidePanelAdvanced" : false,
+        "hidePanelConditionDelete" : false,
+        "hidePanelFooter" : false,
+        "hidePanelRestore" : false,
+        "hidePreviousPage" : false,
+        "hideQuickEdit" : true,
+        "hideRange" : false,
+        "hideRowCount" : false,
+        "hideRowSelector" : false,
+        "hideSelectAll" : true,
+        "hideEmptyStateImage" : false,
+        "hideDBViews" : false,
+        "hideUnnecessaryRowSelectors" : true
+      },
+      "slot" : "ckinbahzh000l3h75wfjwd6r2",
+      "definition" : {
+        "id" : "2b1c080881e05dc63b917044290b233f",
+        "type" : "MACROPONENT"
+      },
+      "overrides" : null
+    } ]
+  }
+}, {
+  "elementId" : "ckinbbbecaaaaaapddhhhffctjoteeiigg",
+  "elementLabel" : "Container",
+  "propertyValues" : {
+    "label" : "",
+    "bare" : false,
+    "type" : "default",
+    "bgvar" : "",
+    "border" : false,
+    "canCollapse" : false,
+    "collapsed" : false
+  },
+  "slot" : "ckinbbbec000q3h75jd0os721",
+  "definition" : {
+    "id" : "80653115e23949b501e719ae9b0b42a6",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : {
+    "layout" : {
+      "default" : {
+        "type" : "rowColumn",
+        "root" : {"type":"row","columns":[{"type":"column","slotName":"ckinbci23000v3h752jc8dj8d","size":"12","rows":[],"id":"ckinbci23000x3h752totckkv"}],"id":"ckinbci23000w3h75annfk6sx"},
+        "items" : null,
+        "rules" : null,
+        "styles" : null
+      }
+    },
+    "composition" : [ {
+      "elementId" : "ckinbciccccaaaaaauddhhhffcccbjggyzc",
+      "elementLabel" : "Heading",
+      "propertyValues" : {
+        "label" : "OEHRM Situational Awareness ",
+        "variant" : "header-secondary",
+        "wontWrap" : false,
+        "hasNoMargin" : true
+      },
+      "slot" : "ckinbci23000v3h752jc8dj8d",
+      "definition" : {
+        "id" : "1f6e0643eca7a637e36bd7833549ec9e",
+        "type" : "MACROPONENT"
+      },
+      "overrides" : null
+    } ]
+  }
+} ]</composition>
+        <data/>
+        <events/>
+        <extends display_value="Landing Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <interactions/>
+        <layout>{
+  "default" : {
+    "type" : "rowColumn",
+    "root" : {"type":"column","id":"ckinb79m600043h754dw9ab5m","size":"12","rows":[{"type":"row","id":"ckinbadcg000i3h75womsn10p","columns":[{"type":"column","id":"ckinb79m600053h75xlyjirez","slotName":"ckinb79m600033h752wkrn2qs","size":"6"},{"type":"column","id":"ckinbadcg000h3h75wlvvk4pf","slotName":"ckinbadc9000g3h75mzoo46cz","size":"6"}]},{"id":"ckinbbbed000s3h75x6w0k2pf","type":"row","columns":[{"type":"column","id":"ckinb8k0y00093h758qn0r0en","slotName":"ckinb8k0x00083h75o2cbcp6b","size":"6"},{"type":"column","slotName":"ckinbbbec000q3h75jd0os721","id":"ckinbbbed000r3h7567byzr21","size":"6"}]},{"type":"row","id":"ckinb9hlp000d3h7567ir862y","slotName":"ckinb9hlp000c3h75wbz3dctf"}]},
+    "items" : null,
+    "rules" : null,
+    "styles" : null
+  }
+}</layout>
+        <macroponent_dependencies/>
+        <name>OEHRM Landing Page</name>
+        <props/>
+        <root_component/>
+        <root_component_config/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-13 15:54:55</sys_created_on>
+        <sys_id>9b0cb5fddb4520107f94015dd3961950</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>OEHRM Landing Page</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_ux_macroponent_9b0cb5fddb4520107f94015dd3961950</sys_update_name>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-13 16:00:06</sys_updated_on>
+    </sys_ux_macroponent>
+</record_update>

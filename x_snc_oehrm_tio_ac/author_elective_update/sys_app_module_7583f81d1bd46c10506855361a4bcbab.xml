@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Access Requests for Cerner">a4e1fe9c1b7d5050506855361a4bcb91</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>OEHRM Access Management ➚</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>101</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>now/workspace/oehrm_access_manag</query>
+        <report/>
+        <roles>x_snc_oehrm_tio_ac.access_request_tio_table_user,x_snc_oehrm_tio_ac.tio admin,oehrm_tio_access_management,x_snc_oehrm_tio_ac.CDP,x_snc_oehrm_tio_ac.VA IAM,x_snc_oehrm_tio_ac.Web Security Officer,x_snc_oehrm_tio_ac.Worksteam Lead,admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 14:34:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7583f81d1bd46c10506855361a4bcbab</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>OEHRM Access Management ➚</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_app_module_7583f81d1bd46c10506855361a4bcbab</sys_update_name>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-11 16:24:33</sys_updated_on>
+        <timeline_page/>
+        <title>OEHRM Access Management ➚</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>OEHRM Access Management</window_name>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</application>
+        <file_path/>
+        <instance_id>cfe0f47cdbb2c494f492c597059619a2</instance_id>
+        <instance_name>nowmardemo</instance_name>
+        <name>sys_app_module_7583f81d1bd46c10506855361a4bcbab</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Access Requests for Cerner">a4e1fe9c1b7d5050506855361a4bcb91</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>OEHRM Access Management ➚</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>101</order><override_menu_roles>false</override_menu_roles><query>now/workspace/oehrm_access_manag</query><report/><roles>x_snc_oehrm_tio_ac.access_request_tio_table_user,x_snc_oehrm_tio_ac.tio admin,oehrm_tio_access_management,x_snc_oehrm_tio_ac.CDP,x_snc_oehrm_tio_ac.VA IAM,x_snc_oehrm_tio_ac.Web Security Officer,x_snc_oehrm_tio_ac.Worksteam Lead,admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-04 14:34:00</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7583f81d1bd46c10506855361a4bcbab</sys_id><sys_mod_count>1</sys_mod_count><sys_name>OEHRM Access Management ➚</sys_name><sys_overrides/><sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package><sys_policy/><sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope><sys_update_name>sys_app_module_7583f81d1bd46c10506855361a4bcbab</sys_update_name><sys_updated_by>Jurgen.Kanagalingam</sys_updated_by><sys_updated_on>2020-12-11 16:24:33</sys_updated_on><timeline_page/><title>OEHRM Access Management ➚</title><uncancelable>false</uncancelable><view_name/><window_name>OEHRM Access Management</window_name></sys_app_module></record_update>]]></payload>
+        <payload_hash>844033065</payload_hash>
+        <record_name>OEHRM Access Management ➚</record_name>
+        <reverted_from/>
+        <source>8e741552dbf468107f94015dd396194e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-11 16:24:33</sys_created_on>
+        <sys_id>4aaf67c5db0de0507f94015dd396198d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176529e47cd0000001</sys_recorded_at>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-11 16:24:33</sys_updated_on>
+        <type>Module</type>
+        <update_guid>42af67c59c0de050183c64c9a838408d</update_guid>
+        <update_guid_history>42af67c59c0de050183c64c9a838408d:844033065,3fb3d1de75b46810215082071643e3dc:-1368278199</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="OEHRM Access Management ➚">d121b349db0de0507f94015dd3961922</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-11 16:31:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>4d90c1329a9344819829cc6412941b49</sys_id>
+        <sys_metadata>7583f81d1bd46c10506855361a4bcbab</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OEHRM Access Management ➚</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_scope_delete display_value="">89e26e085493465cb1cd18725d68e710</sys_scope_delete>
+        <sys_update_name>sys_app_module_7583f81d1bd46c10506855361a4bcbab</sys_update_name>
+        <sys_update_version display_value="sys_app_module_7583f81d1bd46c10506855361a4bcbab">4aaf67c5db0de0507f94015dd396198d</sys_update_version>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-11 16:31:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

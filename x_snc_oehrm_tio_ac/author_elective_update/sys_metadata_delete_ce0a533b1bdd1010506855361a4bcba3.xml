@@ -41,7 +41,7 @@
         <update_guid_history>16c53166b31158106c7410607d672a9c:521086652</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="eServices.eService">4ce99ff71bdd1010506855361a4bcb22</sys_audit_delete>
+        <sys_audit_delete display_value="">4ce99ff71bdd1010506855361a4bcb22</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-16 17:57:54</sys_created_on>
@@ -51,7 +51,7 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
-        <sys_parent display_value="Copy of eService">6d0a133b1bdd1010506855361a4bcb8a</sys_parent>
+        <sys_parent display_value="">6d0a133b1bdd1010506855361a4bcb8a</sys_parent>
         <sys_policy/>
         <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
         <sys_scope_delete display_value="">3a08cd4d4e9544da90041791f25d2984</sys_scope_delete>

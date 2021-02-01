@@ -20,6 +20,7 @@
         <template/>
         <type>delete</type>
         <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
     </sys_sg_write_back_action_item>
     <sys_translated_text action="delete_multiple" query="documentkey=d1281fb31bdd1010506855361a4bcba0"/>
 </record_update>

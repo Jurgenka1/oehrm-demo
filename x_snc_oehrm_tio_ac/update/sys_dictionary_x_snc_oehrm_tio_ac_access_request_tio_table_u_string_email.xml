@@ -6,13 +6,13 @@
         <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
         <column_label>email</column_label>
         <comments/>
         <create_roles/>
-        <default_value/>
+        <default_value>javascript:gs.getSysUser().getEmail();</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -48,15 +48,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-30 14:55:45</sys_created_on>
-        <sys_id>9296b6141bbd5050506855361a4bcbf7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_id>ff931d9edbb468107f94015dd3961983</sys_id>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>email</sys_name>
         <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
         <sys_policy/>
         <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_oehrm_tio_ac_access_request_tio_table_u_string_email</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-30 14:55:45</sys_updated_on>
+        <sys_updated_by>joseph.laudon</sys_updated_by>
+        <sys_updated_on>2020-12-16 17:51:44</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

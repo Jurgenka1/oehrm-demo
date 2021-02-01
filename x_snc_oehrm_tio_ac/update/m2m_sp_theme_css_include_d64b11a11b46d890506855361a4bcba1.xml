@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_theme_css_include">
     <m2m_sp_theme_css_include action="INSERT_OR_UPDATE">
         <order/>
-        <sp_css_include display_value="sp-theme-stock-high-contrast.css">62566fd4dbdee34012ffd4f3ce9619e4</sp_css_include>
+        <sp_css_include display_value="">62566fd4dbdee34012ffd4f3ce9619e4</sp_css_include>
         <sp_theme display_value="OEHRM Access Theme">c1fa59611b46d890506855361a4bcbe1</sp_theme>
         <sys_class_name>m2m_sp_theme_css_include</sys_class_name>
         <sys_created_by>brian.clauzel</sys_created_by>

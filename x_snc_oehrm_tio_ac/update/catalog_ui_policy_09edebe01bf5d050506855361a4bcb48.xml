@@ -6,7 +6,7 @@
         <applies_sc_task>false</applies_sc_task>
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
-        <catalog_conditions>IO:cddc40a41b759050506855361a4bcbe9=^ORIO:cddc40a41b759050506855361a4bcbe9!=cmio/cmo^EQ</catalog_conditions>
+        <catalog_conditions>IO:3ebdc0e41b759050506855361a4bcb9a=^ORIO:3ebdc0e41b759050506855361a4bcb9a=National^EQ</catalog_conditions>
         <catalog_item display_value="OEHRM Cerner Access Request">847a335c1bf19050506855361a4bcb28</catalog_item>
         <conditions/>
         <description/>
@@ -26,22 +26,22 @@
 
 }]]></script_true>
         <set_values/>
-        <short_description>Hide CMIO dependent field</short_description>
+        <short_description>Hide stations field </short_description>
         <sys_class_name>catalog_ui_policy</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-01 13:36:28</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>09edebe01bf5d050506855361a4bcb48</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Hide CMIO dependent field</sys_name>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Hide stations field </sys_name>
         <sys_overrides/>
         <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
         <sys_policy/>
         <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
         <sys_update_name>catalog_ui_policy_09edebe01bf5d050506855361a4bcb48</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-16 14:23:22</sys_updated_on>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2021-01-25 01:19:42</sys_updated_on>
         <table/>
         <ui_type>0</ui_type>
         <variable_set/>

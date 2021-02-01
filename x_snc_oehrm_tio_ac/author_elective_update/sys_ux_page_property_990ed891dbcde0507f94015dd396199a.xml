@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Exclude/include user preferences in workspace chrome.</description>
+        <name>ws_active_user_pref</name>
+        <page display_value="OEHRM Access Management">c50e9411dbcde0507f94015dd3961942</page>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-11 19:47:06</sys_created_on>
+        <sys_id>990ed891dbcde0507f94015dd396199a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ws_active_user_pref</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_ux_page_property_990ed891dbcde0507f94015dd396199a</sys_update_name>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-11 19:47:06</sys_updated_on>
+        <type>boolean</type>
+        <unique_name>x_snc_oehrm_tio_ac.ws_active_user_pref</unique_name>
+        <value>true</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=990ed891dbcde0507f94015dd396199a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</application>
+        <file_path/>
+        <instance_id>cfe0f47cdbb2c494f492c597059619a2</instance_id>
+        <instance_name>nowmardemo</instance_name>
+        <name>sys_ux_page_property_990ed891dbcde0507f94015dd396199a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Exclude/include user preferences in workspace chrome.</description><name>ws_active_user_pref</name><page display_value="OEHRM Access Management">c50e9411dbcde0507f94015dd3961942</page><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>Jurgen.Kanagalingam</sys_created_by><sys_created_on>2020-12-11 19:47:06</sys_created_on><sys_id>990ed891dbcde0507f94015dd396199a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ws_active_user_pref</sys_name><sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package><sys_policy/><sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope><sys_update_name>sys_ux_page_property_990ed891dbcde0507f94015dd396199a</sys_update_name><sys_updated_by>Jurgen.Kanagalingam</sys_updated_by><sys_updated_on>2020-12-11 19:47:06</sys_updated_on><type>boolean</type><unique_name>x_snc_oehrm_tio_ac.ws_active_user_pref</unique_name><value>true</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=990ed891dbcde0507f94015dd396199a"/></record_update>]]></payload>
+        <payload_hash>453966949</payload_hash>
+        <record_name>ws_active_user_pref</record_name>
+        <reverted_from/>
+        <source>8e741552dbf468107f94015dd396194e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-11 19:47:06</sys_created_on>
+        <sys_id>910ed891dbcde0507f94015dd396199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1765357b9100000001</sys_recorded_at>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-11 19:47:06</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>990ed89170cde050c46d2bda67a9d99b</update_guid>
+        <update_guid_history>990ed89170cde050c46d2bda67a9d99b:453966949</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-11 19:47:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>7366aeb1d7154b068c9c20d2a6b87464</sys_id>
+        <sys_metadata>990ed891dbcde0507f94015dd396199a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ws_active_user_pref</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_scope_delete display_value="">89e26e085493465cb1cd18725d68e710</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_990ed891dbcde0507f94015dd396199a</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_990ed891dbcde0507f94015dd396199a">910ed891dbcde0507f94015dd396199c</sys_update_version>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-11 19:47:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_renderer">
+    <sys_aw_renderer action="DELETE">
+        <active>true</active>
+        <custom_renderer display_value="now-record-list-connected">d57daf1053203300099addeeff7b12e8</custom_renderer>
+        <custom_renderer_tag>now-record-list-connected</custom_renderer_tag>
+        <macroponent/>
+        <module_flag>true</module_flag>
+        <renderer_type/>
+        <sys_class_name>sys_aw_renderer</sys_class_name>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-12 02:37:13</sys_created_on>
+        <sys_id>2ceb3151db8520107f94015dd39619b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_aw_renderer_2ceb3151db8520107f94015dd39619b5</sys_update_name>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-12 02:37:13</sys_updated_on>
+        <table/>
+        <type_ext display_value="layout">bfacd1a10f517300bb57f4a1ff767e92</type_ext>
+        <workspace_config display_value="OEHRM Access Management">b7db3911db8520107f94015dd3961987</workspace_config>
+        <workspace_module display_value="home">c38f773d730c330075e8f358caf6a756</workspace_module>
+    </sys_aw_renderer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</application>
+        <file_path/>
+        <instance_id>cfe0f47cdbb2c494f492c597059619a2</instance_id>
+        <instance_name>nowmardemo</instance_name>
+        <name>sys_aw_renderer_2ceb3151db8520107f94015dd39619b5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_renderer"><sys_aw_renderer action="INSERT_OR_UPDATE"><active>true</active><custom_renderer display_value="now-record-list-connected">d57daf1053203300099addeeff7b12e8</custom_renderer><custom_renderer_tag>now-record-list-connected</custom_renderer_tag><macroponent/><module_flag>true</module_flag><renderer_type/><sys_class_name>sys_aw_renderer</sys_class_name><sys_created_by>Jurgen.Kanagalingam</sys_created_by><sys_created_on>2020-12-12 02:37:13</sys_created_on><sys_id>2ceb3151db8520107f94015dd39619b5</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package><sys_policy/><sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope><sys_update_name>sys_aw_renderer_2ceb3151db8520107f94015dd39619b5</sys_update_name><sys_updated_by>Jurgen.Kanagalingam</sys_updated_by><sys_updated_on>2020-12-12 02:37:13</sys_updated_on><table/><type_ext display_value="layout">bfacd1a10f517300bb57f4a1ff767e92</type_ext><workspace_config display_value="OEHRM Access Management">b7db3911db8520107f94015dd3961987</workspace_config><workspace_module display_value="home">c38f773d730c330075e8f358caf6a756</workspace_module></sys_aw_renderer></record_update>]]></payload>
+        <payload_hash>-1747729919</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>8e741552dbf468107f94015dd396194e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-12 02:37:13</sys_created_on>
+        <sys_id>28eb3151db8520107f94015dd39619b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17654cf313c0000001</sys_recorded_at>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-12 02:37:13</sys_updated_on>
+        <type>Workspace Renderer</type>
+        <update_guid>20eb31513485201041833ef4b10a20b7</update_guid>
+        <update_guid_history>20eb31513485201041833ef4b10a20b7:-1747729919</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-12 02:37:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_aw_renderer">sys_aw_renderer</sys_db_object>
+        <sys_id>0440226447234579860e8fad1068cf91</sys_id>
+        <sys_metadata>2ceb3151db8520107f94015dd39619b5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_scope_delete display_value="">89e26e085493465cb1cd18725d68e710</sys_scope_delete>
+        <sys_update_name>sys_aw_renderer_2ceb3151db8520107f94015dd39619b5</sys_update_name>
+        <sys_update_version display_value="sys_aw_renderer_2ceb3151db8520107f94015dd39619b5">28eb3151db8520107f94015dd39619b7</sys_update_version>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-12 02:37:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>19d741e9db4160107f94015dd39619be</admin_panel>
+        <admin_panel_table>sys_aw_master_config</admin_panel_table>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <path>workspace/oehrm_access_manag</path>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-12 17:28:17</sys_created_on>
+        <sys_id>5dd741e9db4160107f94015dd39619be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EHRM Access Management</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_ux_page_registry_5dd741e9db4160107f94015dd39619be</sys_update_name>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-12 17:28:17</sys_updated_on>
+        <title>EHRM Access Management</title>
+    </sys_ux_page_registry>
+</record_update>

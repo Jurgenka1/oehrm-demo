@@ -41,7 +41,7 @@
         <update_guid_history>c6fe97959712981086ad3826143f8cdc:1302190205</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Cloud Resources.*Test">a26f53d51b129810506855361a4bcb72</sys_audit_delete>
+        <sys_audit_delete display_value="">a26f53d51b129810506855361a4bcb72</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-28 16:59:24</sys_created_on>

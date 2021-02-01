@@ -2,7 +2,7 @@
     <question_choice action="INSERT_OR_UPDATE">
         <misc>0</misc>
         <order>100</order>
-        <question display_value="Tech Area">fb7a0bae1b39d8504662dbd3cc4bcb83</question>
+        <question display_value="Site">fb7a0bae1b39d8504662dbd3cc4bcb83</question>
         <rec_misc>0</rec_misc>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>admin</sys_created_by>

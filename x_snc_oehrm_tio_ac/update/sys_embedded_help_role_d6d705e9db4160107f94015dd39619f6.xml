@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="ehrm_access_management" name="ehrm_access_management">c2d705e9db4160107f94015dd39619f3</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-12 17:28:21</sys_created_on>
+        <sys_id>d6d705e9db4160107f94015dd39619f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c2d705e9db4160107f94015dd39619f3</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_d6d705e9db4160107f94015dd39619f6</sys_update_name>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-12 17:28:21</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -65,7 +65,7 @@
         <update_guid_history>23b5b26f1eb110902725478329b2f880:272378660,f668a8175b759c50b44a6b9fa9c74fc2:509944704,c555a11200f5d850ef7c9e27a5a4d830:-712441977,30f465de0ab5d8507c9a53cc1e0c4a3e:1816009340,baa461decab5d850731254e92fd78f93:48917602</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Dashboard">f956b6af1bb110904662dbd3cc4bcbab</sys_audit_delete>
+        <sys_audit_delete display_value="">f956b6af1bb110904662dbd3cc4bcbab</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-10 17:14:53</sys_created_on>

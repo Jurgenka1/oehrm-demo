@@ -150,7 +150,7 @@
         <update_guid_history>10fbbcb4a57dd0508ad6f6f0ccf9118f:-1222947108</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Copy of Title">b55cf4f41b7dd050506855361a4bcb81</sys_audit_delete>
+        <sys_audit_delete display_value="">b55cf4f41b7dd050506855361a4bcb81</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-01 19:18:34</sys_created_on>

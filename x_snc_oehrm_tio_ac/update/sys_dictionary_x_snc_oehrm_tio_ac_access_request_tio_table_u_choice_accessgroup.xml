@@ -27,7 +27,7 @@
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Choice">choice</internal_type>
+        <internal_type display_value="">glide_list</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
@@ -48,15 +48,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-30 14:55:45</sys_created_on>
-        <sys_id>2296f6141bbd5050506855361a4bcb05</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_id>5f931d9edbb468107f94015dd396190f</sys_id>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Access Group</sys_name>
         <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
         <sys_policy/>
         <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_oehrm_tio_ac_access_request_tio_table_u_choice_accessgroup</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-15 21:08:49</sys_updated_on>
+        <sys_updated_by>trevor.roberts</sys_updated_by>
+        <sys_updated_on>2021-01-27 23:00:12</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

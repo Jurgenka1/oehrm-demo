@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_choice_cmo</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-30 15:58:02</sys_created_on>
+        <sys_id>ddc4cb181bfd5050506855361a4bcb1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_choice_cmo</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_ui_policy_action_ddc4cb181bfd5050506855361a4bcb1b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-30 15:58:02</sys_updated_on>
+        <table>x_snc_oehrm_tio_ac_access_request_tio_table</table>
+        <ui_policy display_value="Hide CMIO/CMO type">d2d38bd41bfd5050506855361a4bcb97</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</application>
+        <file_path/>
+        <instance_id>cfe0f47cdbb2c494f492c597059619a2</instance_id>
+        <instance_name>nowmardemo</instance_name>
+        <name>sys_ui_policy_action_ddc4cb181bfd5050506855361a4bcb1b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_choice_cmo</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-30 15:58:02</sys_created_on>
+        <sys_id>ddc4cb181bfd5050506855361a4bcb1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_choice_cmo</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_ui_policy_action_ddc4cb181bfd5050506855361a4bcb1b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-30 15:58:02</sys_updated_on>
+        <table>x_snc_oehrm_tio_ac_access_request_tio_table</table>
+        <ui_policy display_value="Hide CMIO/CMO type">d2d38bd41bfd5050506855361a4bcb97</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>]]></payload>
+        <payload_hash>-1638167397</payload_hash>
+        <record_name>u_choice_cmo</record_name>
+        <reverted_from/>
+        <source>5293d99edbb468107f94015dd3961972</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-02 16:00:43</sys_created_on>
+        <sys_id>d1e31ddedbb468107f94015dd396196a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176242f3b5a0000001</sys_recorded_at>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-02 16:00:43</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>91e31ddebeb4681011d3546e41fb8d6a</update_guid>
+        <update_guid_history>91e31ddebeb4681011d3546e41fb8d6a:-1638167397</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2021-01-25 00:41:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>7d530a65213d4f51b6ace418cdb3dd61</sys_id>
+        <sys_metadata>ddc4cb181bfd5050506855361a4bcb1b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_choice_cmo</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_scope_delete display_value="">89e26e085493465cb1cd18725d68e710</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_ddc4cb181bfd5050506855361a4bcb1b</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_ddc4cb181bfd5050506855361a4bcb1b">d1e31ddedbb468107f94015dd396196a</sys_update_version>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2021-01-25 00:41:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

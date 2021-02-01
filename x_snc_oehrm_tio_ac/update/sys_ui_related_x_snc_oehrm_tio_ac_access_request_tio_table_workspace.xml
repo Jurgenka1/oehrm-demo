@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_snc_oehrm_tio_ac_access_request_tio_table" version="2" view="workspace">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="OEHRM Access Request  - Workspace" name="x_snc_oehrm_tio_ac_access_request_tio_table" related_list="NULL" sys_domain="global" view="a3b830b4dbf2001054b642c505961976">ad79bd3ddb4520107f94015dd396190c</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>sysapproval_approver.sysapproval</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+            <sys_created_on>2020-12-13 15:43:36</sys_created_on>
+            <sys_id>2d79bd3ddb4520107f94015dd396190d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+            <sys_updated_on>2020-12-13 15:43:36</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="OEHRM Access Request  - Workspace" name="x_snc_oehrm_tio_ac_access_request_tio_table" related_list="NULL" sys_domain="global" view="a3b830b4dbf2001054b642c505961976">ad79bd3ddb4520107f94015dd396190c</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>task_sla.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+            <sys_created_on>2020-12-13 15:43:36</sys_created_on>
+            <sys_id>a179bd3ddb4520107f94015dd396190e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+            <sys_updated_on>2020-12-13 15:43:36</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>OEHRM Access Request  - Workspace</calculated_name>
+            <filter/>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+            <sys_created_on>2020-12-13 15:43:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ad79bd3ddb4520107f94015dd396190c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>OEHRM Access Request  - Workspace</sys_name>
+            <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+            <sys_update_name>sys_ui_related_x_snc_oehrm_tio_ac_access_request_tio_table_workspace</sys_update_name>
+            <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+            <sys_updated_on>2020-12-13 15:43:36</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace" name="workspace">a3b830b4dbf2001054b642c505961976</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

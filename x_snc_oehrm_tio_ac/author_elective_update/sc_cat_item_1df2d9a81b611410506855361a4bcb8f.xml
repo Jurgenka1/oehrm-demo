@@ -137,7 +137,7 @@
         <update_guid_history>72398caca3359050b9120202750b0741:-1759484079,55f808acd63590508810e951c9f426bb:-961270294,c4139da89d611410aad224affedd4c5c:-1103034664</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Process Request">53398cac1b359050506855361a4bcbbf</sys_audit_delete>
+        <sys_audit_delete display_value="">53398cac1b359050506855361a4bcbbf</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-30 20:56:48</sys_created_on>

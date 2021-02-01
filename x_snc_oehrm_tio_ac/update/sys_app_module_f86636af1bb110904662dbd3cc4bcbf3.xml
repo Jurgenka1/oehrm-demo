@@ -15,7 +15,7 @@
         <name/>
         <order/>
         <override_menu_roles>false</override_menu_roles>
-        <query>$pa_dashboard.do?sysparm_dashboard%3De391e1da1bb5d850506855361a4bcb9e</query>
+        <query>$pa_dashboard.do?sysparm_dashboard=e391e1da1bb5d850506855361a4bcb9e&amp;sysparm_tab=38b165da1bb5d850506855361a4bcb09&amp;sysparm_cancelable=true&amp;sysparm_editable=undefined&amp;sysparm_active_panel=false</query>
         <report/>
         <roles>oehrm_tio_access_management,x_snc_oehrm_tio_ac.tio admin,x_snc_oehrm_tio_ac.access_request_tio_table_user,x_snc_oehrm_tio_ac.Worksteam Lead,x_snc_oehrm_tio_ac.Web Security Officer,x_snc_oehrm_tio_ac.VA IAM,x_snc_oehrm_tio_ac.CDP</roles>
         <sys_class_name>sys_app_module</sys_class_name>
@@ -24,15 +24,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f86636af1bb110904662dbd3cc4bcbf3</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>OEHRM Dashboard</sys_name>
         <sys_overrides/>
         <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
         <sys_policy/>
         <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
         <sys_update_name>sys_app_module_f86636af1bb110904662dbd3cc4bcbf3</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-10 17:21:21</sys_updated_on>
+        <sys_updated_by>Marc.Mouries</sys_updated_by>
+        <sys_updated_on>2020-12-14 22:56:53</sys_updated_on>
         <timeline_page/>
         <title>OEHRM Dashboard</title>
         <uncancelable>false</uncancelable>

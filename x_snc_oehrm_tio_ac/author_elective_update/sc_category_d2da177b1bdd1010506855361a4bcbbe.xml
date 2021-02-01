@@ -58,7 +58,7 @@
         <update_guid_history>cafa1f3bfbdd10107db7f7be1714b017:1594928863</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Cerner">a3c8c0ac1b359050506855361a4bcbff</sys_audit_delete>
+        <sys_audit_delete display_value="">a3c8c0ac1b359050506855361a4bcbff</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-30 20:54:55</sys_created_on>

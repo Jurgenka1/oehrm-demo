@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>opened_by.email</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2021-01-29 18:55:47</sys_created_on>
+        <sys_id>22f7a481db8220107f94015dd396190e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>opened_by.email</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_ui_policy_action_22f7a481db8220107f94015dd396190e</sys_update_name>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2021-01-29 18:55:47</sys_updated_on>
+        <table>x_snc_oehrm_tio_ac_access_request_tio_table</table>
+        <ui_policy display_value="Email variable on for request form is read-only">ea87a041db8220107f94015dd3961902</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</application>
+        <file_path/>
+        <instance_id>cfe0f47cdbb2c494f492c597059619a2</instance_id>
+        <instance_name>nowmardemo</instance_name>
+        <name>sys_ui_policy_action_22f7a481db8220107f94015dd396190e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>true</disabled><field>opened_by.email</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>Jurgen.Kanagalingam</sys_created_by><sys_created_on>2021-01-29 18:55:47</sys_created_on><sys_id>22f7a481db8220107f94015dd396190e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>opened_by.email</sys_name><sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package><sys_policy/><sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope><sys_update_name>sys_ui_policy_action_22f7a481db8220107f94015dd396190e</sys_update_name><sys_updated_by>Jurgen.Kanagalingam</sys_updated_by><sys_updated_on>2021-01-29 18:55:47</sys_updated_on><table>x_snc_oehrm_tio_ac_access_request_tio_table</table><ui_policy display_value="Email variable on for request form is read-only">ea87a041db8220107f94015dd3961902</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1835310527</payload_hash>
+        <record_name>opened_by.email</record_name>
+        <reverted_from/>
+        <source>d052ff49db0de0507f94015dd39619ef</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2021-01-29 18:55:48</sys_created_on>
+        <sys_id>cb28a481db8220107f94015dd3961963</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1774f805b310000001</sys_recorded_at>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2021-01-29 18:55:48</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>c328a4815c822010c4543f837fbc4763</update_guid>
+        <update_guid_history>c328a4815c822010c4543f837fbc4763:-1835310527</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2021-01-29 19:14:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>0151af936f7c43e8b98ef50f37b41484</sys_id>
+        <sys_metadata>22f7a481db8220107f94015dd396190e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>opened_by.email</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_parent display_value="">ea87a041db8220107f94015dd3961902</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_scope_delete display_value="">89e26e085493465cb1cd18725d68e710</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_22f7a481db8220107f94015dd396190e</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_22f7a481db8220107f94015dd396190e">cb28a481db8220107f94015dd3961963</sys_update_version>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2021-01-29 19:14:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Millennium Request" section_id="8a130c67dbf920d07f94015dd39619a7" sys_domain="global" table="x_snc_oehrm_tio_ac_access_request_tio_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_4</element>
+            <position>0</position>
+            <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+            <sys_created_on>2021-01-29 19:15:39</sys_created_on>
+            <sys_id>86bc6849db8220107f94015dd39619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Millennium Request" display_value="Millennium Request" name="x_snc_oehrm_tio_ac_access_request_tio_table" sys_domain="global" view="Default view">8a130c67dbf920d07f94015dd39619a7</sys_ui_section>
+            <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+            <sys_updated_on>2021-01-29 19:15:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_comments</element>
+            <position>1</position>
+            <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+            <sys_created_on>2021-01-29 19:15:39</sys_created_on>
+            <sys_id>0ebc6849db8220107f94015dd39619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Millennium Request" display_value="Millennium Request" name="x_snc_oehrm_tio_ac_access_request_tio_table" sys_domain="global" view="Default view">8a130c67dbf920d07f94015dd39619a7</sys_ui_section>
+            <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+            <sys_updated_on>2021-01-29 19:15:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_bridgerole</element>
+            <position>2</position>
+            <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+            <sys_created_on>2021-01-29 19:15:39</sys_created_on>
+            <sys_id>8ebc6849db8220107f94015dd39619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Millennium Request" display_value="Millennium Request" name="x_snc_oehrm_tio_ac_access_request_tio_table" sys_domain="global" view="Default view">8a130c67dbf920d07f94015dd39619a7</sys_ui_section>
+            <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+            <sys_updated_on>2021-01-29 19:15:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_bridge_facility</element>
+            <position>3</position>
+            <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+            <sys_created_on>2021-01-29 19:15:39</sys_created_on>
+            <sys_id>02bc6849db8220107f94015dd39619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Millennium Request" display_value="Millennium Request" name="x_snc_oehrm_tio_ac_access_request_tio_table" sys_domain="global" view="Default view">8a130c67dbf920d07f94015dd39619a7</sys_ui_section>
+            <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+            <sys_updated_on>2021-01-29 19:15:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+            <sys_created_on>2021-01-29 19:15:39</sys_created_on>
+            <sys_id>82bc6849db8220107f94015dd39619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Millennium Request" display_value="Millennium Request" name="x_snc_oehrm_tio_ac_access_request_tio_table" sys_domain="global" view="Default view">8a130c67dbf920d07f94015dd39619a7</sys_ui_section>
+            <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+            <sys_updated_on>2021-01-29 19:15:39</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_5</element>
+            <position>5</position>
+            <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+            <sys_created_on>2021-01-29 19:15:39</sys_created_on>
+            <sys_id>06bc6849db8220107f94015dd39619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Millennium Request" display_value="Millennium Request" name="x_snc_oehrm_tio_ac_access_request_tio_table" sys_domain="global" view="Default view">8a130c67dbf920d07f94015dd39619a7</sys_ui_section>
+            <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+            <sys_updated_on>2021-01-29 19:15:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_6</element>
+            <position>6</position>
+            <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+            <sys_created_on>2021-01-29 19:15:39</sys_created_on>
+            <sys_id>86bc6849db8220107f94015dd39619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Millennium Request" display_value="Millennium Request" name="x_snc_oehrm_tio_ac_access_request_tio_table" sys_domain="global" view="Default view">8a130c67dbf920d07f94015dd39619a7</sys_ui_section>
+            <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+            <sys_updated_on>2021-01-29 19:15:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_7</element>
+            <position>7</position>
+            <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+            <sys_created_on>2021-01-29 19:15:39</sys_created_on>
+            <sys_id>0abc6849db8220107f94015dd39619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Millennium Request" display_value="Millennium Request" name="x_snc_oehrm_tio_ac_access_request_tio_table" sys_domain="global" view="Default view">8a130c67dbf920d07f94015dd39619a7</sys_ui_section>
+            <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+            <sys_updated_on>2021-01-29 19:15:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Millennium Request</caption>
+            <header>false</header>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+            <sys_created_on>2021-01-25 00:22:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a130c67dbf920d07f94015dd39619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_oehrm_tio_ac_access_request_tio_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+            <sys_update_name>sys_ui_section_8a130c67dbf920d07f94015dd39619a7</sys_update_name>
+            <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+            <sys_updated_on>2021-01-25 00:22:54</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

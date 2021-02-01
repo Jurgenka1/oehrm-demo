@@ -87,7 +87,7 @@ function populateTitle(user) { //reference is passed into callback as first argu
         <update_guid_history>96ce3e6be3f110907f704f1086f352aa:-2054875664,10be3a6b13f11090c3be9999c923942b:1731711592,f47e766ba5f110901e16e3630c7fa55c:720273194,715e726bc7f110907dff957e2bb0055c:1675794473,162e722be5f1109091b9406187d9cc5b:-295040603</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Pull Title and Phone for Current User">f0ee7e6b1bf110904662dbd3cc4bcb2f</sys_audit_delete>
+        <sys_audit_delete display_value="">f0ee7e6b1bf110904662dbd3cc4bcb2f</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-10 17:52:13</sys_created_on>

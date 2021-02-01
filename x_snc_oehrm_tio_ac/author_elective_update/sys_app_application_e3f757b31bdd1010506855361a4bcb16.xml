@@ -52,7 +52,7 @@
         <update_guid_history>b3f757b3d1dd1010034feee020363718:-284544330</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="OEHRM TIO Access Management">ab365dcb1b755c504662dbd3cc4bcb4c</sys_audit_delete>
+        <sys_audit_delete display_value="">ab365dcb1b755c504662dbd3cc4bcb4c</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-08 20:58:04</sys_created_on>

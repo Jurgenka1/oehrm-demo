@@ -51,7 +51,7 @@
         <update_guid_history>598dd52868a11410e1e18dafde972256:-826611336</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="OEHRM Access Requests - Container 1">f49d19281ba11410506855361a4bcbb2</sys_audit_delete>
+        <sys_audit_delete display_value="">f49d19281ba11410506855361a4bcbb2</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-18 16:49:36</sys_created_on>

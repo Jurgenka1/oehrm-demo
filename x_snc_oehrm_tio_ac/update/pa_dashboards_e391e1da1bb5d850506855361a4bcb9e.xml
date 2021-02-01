@@ -2,7 +2,7 @@
     <pa_dashboards action="INSERT_OR_UPDATE">
         <active>true</active>
         <breakdown_source/>
-        <color>#ffffff</color>
+        <color>#293e40</color>
         <disable_multiple_element>false</disable_multiple_element>
         <group/>
         <groups/>
@@ -23,15 +23,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e391e1da1bb5d850506855361a4bcb9e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>OEHRM Dashboard</sys_name>
         <sys_overrides/>
         <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
         <sys_policy/>
         <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
         <sys_update_name>pa_dashboards_e391e1da1bb5d850506855361a4bcb9e</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-06 13:52:40</sys_updated_on>
+        <sys_updated_by>joseph.laudon</sys_updated_by>
+        <sys_updated_on>2020-12-16 19:08:19</sys_updated_on>
         <users/>
         <visible_to>2</visible_to>
     </pa_dashboards>

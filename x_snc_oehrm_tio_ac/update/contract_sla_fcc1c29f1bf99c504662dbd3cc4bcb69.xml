@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="contract_sla">
     <contract_sla action="INSERT_OR_UPDATE">
         <active>true</active>
-        <cancel_condition table="x_snc_oehrm_tio_ac_access_request_tio_table">state=503^EQ<item display_value="Web Security Approval" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="503"/>
+        <cancel_condition table="x_snc_oehrm_tio_ac_access_request_tio_table">state=503^EQ<item display_value="TIO/Web Security" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="503"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </cancel_condition>
         <collection>x_snc_oehrm_tio_ac_access_request_tio_table</collection>
@@ -21,9 +21,8 @@
         <schedule display_value="24 x 7">38fa64edc0a8016400f4a5724b0434b8</schedule>
         <schedule_source>sla_definition</schedule_source>
         <schedule_source_field/>
-        <service_commitment>false</service_commitment>
         <set_start_to>work_end</set_start_to>
-        <start_condition table="x_snc_oehrm_tio_ac_access_request_tio_table">state=503^EQ<item display_value="Web Security Approval" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="503"/>
+        <start_condition table="x_snc_oehrm_tio_ac_access_request_tio_table">state=503^EQ<item display_value="TIO/Web Security" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="503"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </start_condition>
         <stop_condition/>
@@ -46,7 +45,6 @@
         <timezone/>
         <timezone_source>task.caller_id.time_zone</timezone_source>
         <type>SLA</type>
-        <vendor/>
         <when_to_cancel>on_condition</when_to_cancel>
         <when_to_resume>on_condition</when_to_resume>
         <workflow/>

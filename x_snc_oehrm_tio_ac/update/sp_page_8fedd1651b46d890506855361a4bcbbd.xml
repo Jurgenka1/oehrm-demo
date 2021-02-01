@@ -20,6 +20,7 @@ body &gt; div.sp-page-root.page.flex-column.sp-can-animate &gt; section &gt; mai
         <dynamic_title_structure/>
         <id>oehrm_index</id>
         <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
         <public>false</public>
         <roles/>
         <seo_script/>

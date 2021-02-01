@@ -2,7 +2,7 @@
     <question_choice action="INSERT_OR_UPDATE">
         <misc>0</misc>
         <order>100</order>
-        <question display_value="CMO/CMIO Type">3ebdc0e41b759050506855361a4bcb9a</question>
+        <question display_value="VA Station">3ebdc0e41b759050506855361a4bcb9a</question>
         <rec_misc>0</rec_misc>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>admin</sys_created_by>

@@ -250,6 +250,7 @@ if (data.menu && data.menu.data) {
 
 data.loginWidget = $sp.getWidgetFromInstance('login-modal');]]></script>
         <servicenow>false</servicenow>
+        <static>false</static>
         <sys_class_name>sp_header_footer</sys_class_name>
         <sys_created_by>brian.clauzel</sys_created_by>
         <sys_created_on>2020-07-16 16:08:27</sys_created_on>

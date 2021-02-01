@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_highlighted_value_condition">
+    <sys_highlighted_value_condition action="INSERT_OR_UPDATE">
+        <conditions table="x_snc_oehrm_tio_ac_access_request_tio_table">background_check_resultISEMPTY^EQ<item endquery="false" field="background_check_result" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <highlighted_value display_value="">8c07bb1adb8924106dd2eb41ca96194c</highlighted_value>
+        <order>0</order>
+        <show_icon>true</show_icon>
+        <status>info</status>
+        <sys_class_name>sys_highlighted_value_condition</sys_class_name>
+        <sys_created_by>Marc.Mouries</sys_created_by>
+        <sys_created_on>2020-12-15 14:11:08</sys_created_on>
+        <sys_id>12573f1adb8924106dd2eb41ca96194d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_highlighted_value_condition_12573f1adb8924106dd2eb41ca96194d</sys_update_name>
+        <sys_updated_by>Marc.Mouries</sys_updated_by>
+        <sys_updated_on>2020-12-15 14:17:31</sys_updated_on>
+        <value_override/>
+    </sys_highlighted_value_condition>
+</record_update>

@@ -19,6 +19,6 @@
         <sys_update_name>pa_m2m_dashboard_tabs_74b165da1bb5d850506855361a4bcb0c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-07-06 13:52:40</sys_updated_on>
-        <tab display_value="OEHRM Dashboard - New Tab">38b165da1bb5d850506855361a4bcb09</tab>
+        <tab display_value="OEHRM Dashboard">38b165da1bb5d850506855361a4bcb09</tab>
     </pa_m2m_dashboard_tabs>
 </record_update>

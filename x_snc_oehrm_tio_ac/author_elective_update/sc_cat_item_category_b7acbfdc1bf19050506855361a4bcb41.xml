@@ -41,7 +41,7 @@
         <update_guid_history>7facbfdcd3f1905012f0b0e4ba165944:-1202114366</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Elevated Privileges.Cerner Access Request">13c8c0ac1b359050506855361a4bcbbf</sys_audit_delete>
+        <sys_audit_delete display_value="">13c8c0ac1b359050506855361a4bcbbf</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-30 20:54:54</sys_created_on>

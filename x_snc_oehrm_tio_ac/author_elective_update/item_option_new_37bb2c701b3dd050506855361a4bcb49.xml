@@ -146,7 +146,7 @@
         <update_guid_history>f3bb6c70473dd05059b1aae0991f8887:-490612735</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Copy of CMO/CMIO Type">adeb60b01b3dd050506855361a4bcb38</sys_audit_delete>
+        <sys_audit_delete display_value="">adeb60b01b3dd050506855361a4bcb38</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-01 18:06:44</sys_created_on>

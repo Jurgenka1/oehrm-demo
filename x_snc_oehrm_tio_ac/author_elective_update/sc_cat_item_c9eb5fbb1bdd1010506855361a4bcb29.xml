@@ -157,7 +157,7 @@
         <update_guid_history>a747ae50d27d5050cec3809d0f0e51e9:338812084,d55ea6796025541093827190b8122e93:795691057,16672b7bd31150101401d18003389295:1492268305,e8516b73ce1150102bdfbd27ef4ae5af:1038524241,bc0c13fb57dd1010b63c86533d44331d:869811922</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="eServices">8e4900ec1b359050506855361a4bcb42</sys_audit_delete>
+        <sys_audit_delete display_value="">8e4900ec1b359050506855361a4bcb42</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-30 20:57:00</sys_created_on>

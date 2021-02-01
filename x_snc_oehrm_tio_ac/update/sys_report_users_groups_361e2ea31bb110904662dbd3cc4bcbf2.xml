@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
     <sys_report_users_groups action="INSERT_OR_UPDATE">
         <group_id/>
-        <report_id display_value="OEHRM Requests Created By Date and State">be1e2ea31bb110904662dbd3cc4bcbf1</report_id>
+        <report_id display_value="OEHRM Requests Created By State">be1e2ea31bb110904662dbd3cc4bcbf1</report_id>
         <sys_class_name>sys_report_users_groups</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-10 16:38:54</sys_created_on>

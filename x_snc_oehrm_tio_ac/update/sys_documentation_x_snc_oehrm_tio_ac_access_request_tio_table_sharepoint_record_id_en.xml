@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="sharepoint_record_id" label="SharePoint Record ID" language="en" table="x_snc_oehrm_tio_ac_access_request_tio_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sharepoint_record_id</element>
+            <help/>
+            <hint/>
+            <label>SharePoint Record ID</label>
+            <language>en</language>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <plural>SharePoint Record IDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>marc.mouries</sys_created_by>
+            <sys_created_on>2020-12-04 20:47:28</sys_created_on>
+            <sys_id>59b8e483db346c106dd2eb41ca961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>SharePoint Record ID</sys_name>
+            <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_oehrm_tio_ac_access_request_tio_table_sharepoint_record_id_en</sys_update_name>
+            <sys_updated_by>marc.mouries</sys_updated_by>
+            <sys_updated_on>2020-12-04 20:47:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_choice_6" label="Millennium Secondary Position" language="en" table="x_snc_oehrm_tio_ac_access_request_tio_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_choice_6</element>
+            <help/>
+            <hint/>
+            <label>Millennium Secondary Position</label>
+            <language>en</language>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <plural>Millennium Secondary Positions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+            <sys_created_on>2021-01-25 00:33:15</sys_created_on>
+            <sys_id>2d75402bdbf920d07f94015dd3961967</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Millennium Secondary Position</sys_name>
+            <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_oehrm_tio_ac_access_request_tio_table_u_choice_6_en</sys_update_name>
+            <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+            <sys_updated_on>2021-01-25 00:53:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

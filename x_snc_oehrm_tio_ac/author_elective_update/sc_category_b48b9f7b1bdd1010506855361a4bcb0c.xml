@@ -58,7 +58,7 @@
         <update_guid_history>b28b17bb20dd1010a3004aad4517d026:840714069</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="CMIO/CMO">23c8c0ac1b359050506855361a4bcbf2</sys_audit_delete>
+        <sys_audit_delete display_value="">23c8c0ac1b359050506855361a4bcbf2</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-30 20:54:55</sys_created_on>

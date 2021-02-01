@@ -140,7 +140,7 @@ $text-muted:#666666;
         <update_guid_history>16d4ada0e9e11410fe7f82577b32b826:2027855283,c9d46da0e4e11410a7af90eb8b478ab9:-1313086292,5f1e556824a11410e25c7bf82c4ef001:2027855283,dd1e156871a11410b953cabd85cde3fa:-1392100551,381ed16889a11410b9167e163dfa62ed:317877366,b26dd1283ba11410f08cc78775dcaa98:-1003165524,2f3ddde47da11410688fb541dcf0affa:-1521901940,893d9de4e5a11410f74c07a903d12165:-791118101,170dd9e460a114104f63de033d38c062:-1003165524,290d99e458a11410a2c8568e0b053bde:937357606,a7fc99e4baa11410513dd0a5e3ac40d7:740725266,af8cdda4d9a114107a18da0117d599de:916939814,a38c5da4e6a114109ecdb9b404af2151:1874475177,658c9da4f9a114104f461c24f5e5d9f0:-993383684</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="OEHRM Access Request Portal">783f2ed81b7d5050506855361a4bcbe7</sys_audit_delete>
+        <sys_audit_delete display_value="">783f2ed81b7d5050506855361a4bcbe7</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-30 14:23:25</sys_created_on>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element">
+    <sys_ux_content_placeholder_elem action="DELETE">
+        <attrs/>
+        <children/>
+        <component/>
+        <is_root>false</is_root>
+        <layout/>
+        <limit>1</limit>
+        <macroponent/>
+        <macroponent_config/>
+        <name>Landing Page Placeholder</name>
+        <order>0</order>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <parent display_value="">5ceb3151db8520107f94015dd3961967</parent>
+        <parent_slot/>
+        <picker/>
+        <picker_condition/>
+        <sys_class_name>sys_ux_content_placeholder_elem</sys_class_name>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-12 02:37:13</sys_created_on>
+        <sys_id>e8eb3151db8520107f94015dd39619d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Landing Page Placeholder</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>sys_ux_content_placeholder_elem_e8eb3151db8520107f94015dd39619d6</sys_update_name>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-12 02:37:13</sys_updated_on>
+        <tree_root/>
+    </sys_ux_content_placeholder_elem>
+    <sys_variable_value action="DELETE" query="document_key=e8eb3151db8520107f94015dd39619d6"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</application>
+        <file_path/>
+        <instance_id>cfe0f47cdbb2c494f492c597059619a2</instance_id>
+        <instance_name>nowmardemo</instance_name>
+        <name>sys_ux_content_placeholder_elem_e8eb3151db8520107f94015dd39619d6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element"><sys_ux_content_placeholder_elem action="INSERT_OR_UPDATE"><attrs/><children/><component/><is_root>false</is_root><layout/><limit>1</limit><macroponent/><macroponent_config/><name>Landing Page Placeholder</name><order>0</order><page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page><parent display_value="">5ceb3151db8520107f94015dd3961967</parent><parent_slot/><picker/><picker_condition/><sys_class_name>sys_ux_content_placeholder_elem</sys_class_name><sys_created_by>Jurgen.Kanagalingam</sys_created_by><sys_created_on>2020-12-12 02:37:13</sys_created_on><sys_id>e8eb3151db8520107f94015dd39619d6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Landing Page Placeholder</sys_name><sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package><sys_policy/><sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope><sys_update_name>sys_ux_content_placeholder_elem_e8eb3151db8520107f94015dd39619d6</sys_update_name><sys_updated_by>Jurgen.Kanagalingam</sys_updated_by><sys_updated_on>2020-12-12 02:37:13</sys_updated_on><tree_root/></sys_ux_content_placeholder_elem><sys_variable_value action="delete_multiple" query="document_key=e8eb3151db8520107f94015dd39619d6"/></record_update>]]></payload>
+        <payload_hash>-568399428</payload_hash>
+        <record_name>Landing Page Placeholder</record_name>
+        <reverted_from/>
+        <source>8e741552dbf468107f94015dd396194e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-12 02:37:16</sys_created_on>
+        <sys_id>1deb7151db8520107f94015dd3961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17654cf3da30000001</sys_recorded_at>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-12 02:37:16</sys_updated_on>
+        <type>UX Content Placeholder</type>
+        <update_guid>e4eb315104852010c6f64adc9066b8d8</update_guid>
+        <update_guid_history>e4eb315104852010c6f64adc9066b8d8:26189243,e4eb315104852010c6f64adc9066b8d8:26189243</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2020-12-12 02:37:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_content_placeholder_elem">sys_ux_content_placeholder_elem</sys_db_object>
+        <sys_id>5e292ae98912490499691f335e091911</sys_id>
+        <sys_metadata>e8eb3151db8520107f94015dd39619d6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Landing Page Placeholder</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_scope_delete display_value="">89e26e085493465cb1cd18725d68e710</sys_scope_delete>
+        <sys_update_name>sys_ux_content_placeholder_elem_e8eb3151db8520107f94015dd39619d6</sys_update_name>
+        <sys_update_version display_value="sys_ux_content_placeholder_elem_e8eb3151db8520107f94015dd39619d6">1deb7151db8520107f94015dd3961966</sys_update_version>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2020-12-12 02:37:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

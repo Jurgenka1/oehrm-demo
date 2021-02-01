@@ -17,6 +17,7 @@
         <do_not_select_first>false</do_not_select_first>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
+        <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
         <field>u_choice_accessgroup</field>
         <global>false</global>
@@ -25,7 +26,7 @@
         <include_none>true</include_none>
         <instructions/>
         <layout>normal</layout>
-        <list_table/>
+        <list_table>sys_choice</list_table>
         <lookup_label>label</lookup_label>
         <lookup_price/>
         <lookup_table>sys_choice</lookup_table>
@@ -49,6 +50,8 @@
         <reference/>
         <reference_qual>name=x_snc_oehrm_tio_ac_access_request_tio_table^element=u_choice_accessgroup^inactive=false</reference_qual>
         <reference_qual_condition/>
+        <rich_text/>
+        <roles_to_use_also_request_for/>
         <scale_max>5</scale_max>
         <scale_min>0</scale_min>
         <show_help>false</show_help>
@@ -59,17 +62,17 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-30 21:13:19</sys_created_on>
         <sys_id>cddc40a41b759050506855361a4bcbe9</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name>Access Group</sys_name>
         <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
         <sys_policy/>
         <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
         <sys_update_name>item_option_new_cddc40a41b759050506855361a4bcbe9</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-16 14:21:16</sys_updated_on>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2021-01-26 23:46:12</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>18</type>
+        <type>21</type>
         <ui_page/>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>advanced</use_reference_qualifier>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X Snc Oehrm Tio Ac Access Request Tio Table" max_length="40" name="u_imp_tmpl_x_snc_oehrm_tio_ac_access_request_tio_table" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Access Group" label="Access Group" max_length="40" name="u_access_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Approval" label="Approval" max_length="40" name="u_approval" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Assigned to" label="Assigned to" max_length="32" name="u_assigned_to" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Authorization Level" label="Authorization Level" max_length="40" name="u_authorization_level" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Background check Result" label="Background check Result" max_length="20" name="u_background_check_result" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CMO/CMIO Type" label="CMO/CMIO Type" max_length="40" name="u_cmo_cmio_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=EDIPI Create Date" label="EDIPI Create Date" max_length="40" name="u_edipi_create_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=EDIPI Required" label="EDIPI Required" max_length="40" name="u_edipi_required" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Expiration Date" label="Expiration Date" max_length="40" name="u_expiration_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Number" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Opened by" label="Opened by" max_length="32" name="u_opened_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Priority" label="Priority" max_length="40" name="u_priority" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Role Description/Justification for Access" label="Role Description/Justification for Access" max_length="40" name="u_role_descrip_ion_for_access" type="string"/>
+        <element attributes="import_attribute_name=SharePoint Record ID" label="SharePoint Record ID" max_length="40" name="u_sharepoint_record_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=State" label="State" max_length="40" name="u_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Type of Request" label="Type of Request" max_length="40" name="u_type_of_request" type="string"/>
+    </element>
+</database>
