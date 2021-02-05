@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_process_flow">
     <sys_process_flow action="INSERT_OR_UPDATE">
         <active>true</active>
-        <condition table="x_snc_oehrm_tio_ac_access_request_tio_table">state=506^EQ<item display_value="Pending Approval" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="506"/>
+        <condition table="x_snc_oehrm_tio_ac_access_request_tio_table">state=510^EQ<item display_value="WSO Final Review" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="510"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <description/>
-        <label>Pending Approval</label>
+        <label>WSO</label>
         <name>OEHRM Path</name>
         <order>400</order>
         <sys_class_name>sys_process_flow</sys_class_name>
         <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
         <sys_created_on>2020-12-21 19:41:11</sys_created_on>
         <sys_id>b38c3f98db9960106dd2eb41ca9619fc</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>OEHRM Path</sys_name>
         <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
         <sys_policy/>
         <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
         <sys_update_name>sys_process_flow_b38c3f98db9960106dd2eb41ca9619fc</sys_update_name>
         <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
-        <sys_updated_on>2020-12-21 19:46:35</sys_updated_on>
+        <sys_updated_on>2021-02-05 03:31:47</sys_updated_on>
         <table>x_snc_oehrm_tio_ac_access_request_tio_table</table>
     </sys_process_flow>
 </record_update>

@@ -10,7 +10,7 @@
             <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_snc_oehrm_tio_ac_access_request_tio_table" name="x_snc_oehrm_tio_ac_access_request_tio_table" sys_domain="global" view="Default view">ce96b6141bbd5050506855361a4bcbc8</sys_ui_form>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_oehrm_tio_ac_access_request_tio_table" sys_domain="global" view="Default view">d76b5718db1960106dd2eb41ca96190c</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_oehrm_tio_ac_access_request_tio_table" sys_domain="global" view="Default view">d76b5718db1960106dd2eb41ca96190c</sys_ui_section>
             <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
             <sys_updated_on>2020-12-21 17:16:26</sys_updated_on>
         </sys_ui_form_section>

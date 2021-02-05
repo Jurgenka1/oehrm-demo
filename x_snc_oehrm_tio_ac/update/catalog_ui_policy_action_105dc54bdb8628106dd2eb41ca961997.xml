@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="OEHRM Cerner Access Request">847a335c1bf19050506855361a4bcb28</catalog_item>
+        <catalog_variable>IO:65930d0fdb4628106dd2eb41ca961938</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+        <sys_created_on>2021-02-05 02:46:05</sys_created_on>
+        <sys_id>105dc54bdb8628106dd2eb41ca961997</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_choice_web_provision</sys_name>
+        <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_105dc54bdb8628106dd2eb41ca961997</sys_update_name>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2021-02-05 02:46:05</sys_updated_on>
+        <table/>
+        <ui_policy display_value="show/hide web tools fields">9a2d414bdb8628106dd2eb41ca961986</ui_policy>
+        <variable>u_choice_web_provision</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_glide_list_environment" table="x_snc_oehrm_tio_ac_access_request_tio_table" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_glide_list_environment</element>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+            <sys_created_on>2021-02-05 01:02:49</sys_created_on>
+            <sys_id>52b57c0fdb0628106dd2eb41ca961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_glide_list_environment</sys_name>
+            <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+            <sys_update_name>sys_choice_x_snc_oehrm_tio_ac_access_request_tio_table_u_glide_list_environment</sys_update_name>
+            <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+            <sys_updated_on>2021-02-05 01:02:49</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_glide_list_environment</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>B1930(Build)</label>
+            <language>en</language>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+            <sys_created_on>2021-02-05 01:02:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89a57c0fdb0628106dd2eb41ca9619ad</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+            <sys_updated_on>2021-02-05 01:04:09</sys_updated_on>
+            <value>B1930(Build)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_glide_list_environment</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>C0630(Certification)</label>
+            <language>en</language>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+            <sys_created_on>2021-02-05 01:03:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1fb57c0fdb0628106dd2eb41ca961997</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+            <sys_updated_on>2021-02-05 01:04:09</sys_updated_on>
+            <value>C0630(Certification)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_glide_list_environment</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>M0630(Mock/Upgrade)</label>
+            <language>en</language>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+            <sys_created_on>2021-02-05 01:03:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d8d5fc0fdb0628106dd2eb41ca96194c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+            <sys_updated_on>2021-02-05 01:04:10</sys_updated_on>
+            <value>M0630(Mock/Upgrade)</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

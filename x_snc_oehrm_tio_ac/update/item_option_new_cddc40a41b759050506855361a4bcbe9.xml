@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <attributes/>
         <cat_item display_value="OEHRM Cerner Access Request">847a335c1bf19050506855361a4bcb28</cat_item>
         <category/>
@@ -33,7 +33,7 @@
         <lookup_unique>false</lookup_unique>
         <lookup_value>value</lookup_value>
         <macro/>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
@@ -62,14 +62,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-30 21:13:19</sys_created_on>
         <sys_id>cddc40a41b759050506855361a4bcbe9</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_name>Access Group</sys_name>
         <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
         <sys_policy/>
         <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
         <sys_update_name>item_option_new_cddc40a41b759050506855361a4bcbe9</sys_update_name>
         <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
-        <sys_updated_on>2021-01-26 23:46:12</sys_updated_on>
+        <sys_updated_on>2021-02-05 01:36:03</sys_updated_on>
         <table/>
         <tooltip/>
         <type>21</type>
