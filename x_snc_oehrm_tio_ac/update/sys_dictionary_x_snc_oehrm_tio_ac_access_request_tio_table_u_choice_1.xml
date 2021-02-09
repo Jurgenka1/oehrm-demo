@@ -9,7 +9,7 @@
         <choice>1</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>MIllennium Provision Activity</column_label>
+        <column_label>Millennium Provision Activity</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -49,14 +49,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-30 14:55:45</sys_created_on>
         <sys_id>d7931d9edbb468107f94015dd3961908</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>MIllennium Provision Activity</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Millennium Provision Activity</sys_name>
         <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
         <sys_policy/>
         <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_oehrm_tio_ac_access_request_tio_table_u_choice_1</sys_update_name>
         <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
-        <sys_updated_on>2021-02-05 01:07:51</sys_updated_on>
+        <sys_updated_on>2021-02-08 19:32:51</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

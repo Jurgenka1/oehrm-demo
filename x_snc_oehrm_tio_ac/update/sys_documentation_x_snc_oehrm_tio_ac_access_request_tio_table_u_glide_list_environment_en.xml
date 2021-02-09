@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_glide_list_environment" label="Environment**" language="en" table="x_snc_oehrm_tio_ac_access_request_tio_table">
+    <sys_documentation element="u_glide_list_environment" label="Environment" language="en" table="x_snc_oehrm_tio_ac_access_request_tio_table">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>u_glide_list_environment</element>
             <help/>
             <hint/>
-            <label>Environment**</label>
+            <label>Environment</label>
             <language>en</language>
             <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
-            <plural>Environment**s</plural>
+            <plural>Environments</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
             <sys_created_on>2021-02-05 01:02:04</sys_created_on>
             <sys_id>5b85b80fdb0628106dd2eb41ca9619a5</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>Environment**</sys_name>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Environment</sys_name>
             <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
             <sys_policy/>
             <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
             <sys_update_name>sys_documentation_x_snc_oehrm_tio_ac_access_request_tio_table_u_glide_list_environment_en</sys_update_name>
             <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
-            <sys_updated_on>2021-02-05 01:02:04</sys_updated_on>
+            <sys_updated_on>2021-02-09 01:40:16</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
