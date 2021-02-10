@@ -101,6 +101,17 @@
         <position>0</position>
         <source_table>sys_trigger_runner_mapping</source_table>
         <sys_created_by>Marc.Mouries</sys_created_by>
+        <sys_created_on>2021-02-10 15:18:15</sys_created_on>
+        <sys_id>2d7925bcdbd660107f94015dd39619b8</sys_id>
+    </sys_json_chunk>
+    <sys_json_chunk action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAGXLWwqAIBBA0b3MdytwKxGD5fggGUFHLKK99yAo6Pce7ga5MiZGWoTYkAEFVsdC0N1iY2oY+KyjnmaXU2XzUPPEWAtljKEIqH749EIigd31JfG/42XNK+wHxPKN7oYAAAA=</data>
+        <document_id>5dd94f32db8ee4106dd2eb41ca961922</document_id>
+        <field>trigger_runner</field>
+        <length>144</length>
+        <position>0</position>
+        <source_table>sys_trigger_runner_mapping</source_table>
+        <sys_created_by>Marc.Mouries</sys_created_by>
         <sys_created_on>2021-02-09 01:27:15</sys_created_on>
         <sys_id>3aa1a19cdb122c107f94015dd3961918</sys_id>
     </sys_json_chunk>
