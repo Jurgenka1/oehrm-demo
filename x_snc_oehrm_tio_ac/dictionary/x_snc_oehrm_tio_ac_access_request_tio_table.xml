@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="task" label="OEHRM Access Request " max_length="40" name="x_snc_oehrm_tio_ac_access_request_tio_table" sizeclass="117" text_index="true" type="collection">
+    <element audit="true" extends="task" label="OEHRM Access Request " max_length="40" name="x_snc_oehrm_tio_ac_access_request_tio_table" sizeclass="45" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" default="Cerner Care Account" label="Authorization level" max_length="40" name="authorization_level" type="glide_list">
             <choice>
                 <element inactive_on_update="false" label="Project Portal (MethodM) read/write" sequence="0" value="Project Portal (MethodM) read/write"/>

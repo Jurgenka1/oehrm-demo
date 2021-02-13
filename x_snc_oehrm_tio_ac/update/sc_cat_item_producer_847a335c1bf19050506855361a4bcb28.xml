@@ -75,8 +75,9 @@
         <script><![CDATA[gs.info(producer.u_scratch);
 current.variables.u_scratch = '';
 
-var sysIds = producer.u_choice_accessgroup.toString().split(',');
-var choices = [];
+// This is bombing out the record producer var sysIds = producer.u_choice_accessgroup.toString().split(',');
+
+/*var choices = [];
 sysIds.forEach(function(sysId) {
 	var gr = new GlideRecord('sys_choice');
 	gr.get(sysId);
@@ -86,7 +87,7 @@ sysIds.forEach(function(sysId) {
 gs.info('trevorrrr:' + choices.join(','))
 
 current.u_choice_accessgroup = choices.join(',');
-	
+	*/
 ]]></script>
         <short_description/>
         <show_variable_help_on_load>false</show_variable_help_on_load>
@@ -95,14 +96,14 @@ current.u_choice_accessgroup = choices.join(',');
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-30 19:53:16</sys_created_on>
         <sys_id>847a335c1bf19050506855361a4bcb28</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_name>OEHRM Cerner Access Request</sys_name>
         <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
         <sys_policy/>
         <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
         <sys_update_name>sc_cat_item_producer_847a335c1bf19050506855361a4bcb28</sys_update_name>
-        <sys_updated_by>trevor.roberts</sys_updated_by>
-        <sys_updated_on>2021-01-28 18:36:51</sys_updated_on>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2021-02-13 00:55:08</sys_updated_on>
         <table_name>x_snc_oehrm_tio_ac_access_request_tio_table</table_name>
         <template/>
         <type>item</type>

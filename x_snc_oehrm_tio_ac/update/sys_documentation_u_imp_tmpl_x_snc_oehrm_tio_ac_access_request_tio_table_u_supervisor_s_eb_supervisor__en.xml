@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_supervisor_s_eb_supervisor_" label="Supervisor Supplemental Justification(u_string_web_supervisor)" language="en" table="u_imp_tmpl_x_snc_oehrm_tio_ac_access_request_tio_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_supervisor_s_eb_supervisor_</element>
+            <help/>
+            <hint/>
+            <label>Supervisor Supplemental Justification(u_string_web_supervisor)</label>
+            <language>en</language>
+            <name>u_imp_tmpl_x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <plural>Supervisor Supplemental Justification(u_string_web_supervisor)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Jurgen.Kanagalingam</sys_created_by>
+            <sys_created_on>2021-02-11 23:55:49</sys_created_on>
+            <sys_id>b0892cd5db16e0107f94015dd396198b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Supervisor Supplemental Justification(u_string_web_supervisor)</sys_name>
+            <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+            <sys_update_name>sys_documentation_u_imp_tmpl_x_snc_oehrm_tio_ac_access_request_tio_table_u_supervisor_s_eb_supervisor__en</sys_update_name>
+            <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+            <sys_updated_on>2021-02-11 23:55:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

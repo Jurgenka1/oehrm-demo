@@ -6,7 +6,7 @@
         <action_insert>false</action_insert>
         <action_query>true</action_query>
         <action_update>false</action_update>
-        <active>true</active>
+        <active>false</active>
         <add_message>false</add_message>
         <advanced>true</advanced>
         <change_fields>false</change_fields>
@@ -55,15 +55,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a6700bf3db7c20506dd2eb41ca961958</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Update from SharePoint</sys_name>
         <sys_overrides/>
         <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
         <sys_policy/>
         <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
         <sys_update_name>sys_script_a6700bf3db7c20506dd2eb41ca961958</sys_update_name>
-        <sys_updated_by>Marc.Mouries</sys_updated_by>
-        <sys_updated_on>2020-12-08 19:48:08</sys_updated_on>
+        <sys_updated_by>Jurgen.Kanagalingam</sys_updated_by>
+        <sys_updated_on>2021-02-11 15:56:45</sys_updated_on>
         <template/>
         <when>before_display</when>
     </sys_script>

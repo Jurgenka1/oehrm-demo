@@ -1,20 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="Imp Tmpl X Snc Oehrm Tio Ac Access Request Tio Table" max_length="40" name="u_imp_tmpl_x_snc_oehrm_tio_ac_access_request_tio_table" sizeclass="0" type="collection">
+    <element extends="sys_import_set_row" label="Imp Tmpl X Snc Oehrm Tio Ac Access Request Tio Table" max_length="40" name="u_imp_tmpl_x_snc_oehrm_tio_ac_access_request_tio_table" sizeclass="6" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Access Group" label="Access Group" max_length="40" name="u_access_group" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Approval" label="Approval" max_length="40" name="u_approval" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Assigned to" label="Assigned to" max_length="32" name="u_assigned_to" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Authorization Level" label="Authorization Level" max_length="40" name="u_authorization_level" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Background check Result" label="Background check Result" max_length="20" name="u_background_check_result" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Bridge Facility" max_length="40" name="u_bridge_facility" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Bridge Role" max_length="40" name="u_bridge_role" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=CMO/CMIO Type" label="CMO/CMIO Type" max_length="40" name="u_cmo_cmio_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Department(u_reference_department)" max_length="40" name="u_department_u_ce_department_" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=EDIPI Create Date" label="EDIPI Create Date" max_length="40" name="u_edipi_create_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=EDIPI Required" label="EDIPI Required" max_length="40" name="u_edipi_required" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="email" max_length="40" name="u_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Environment(u_choice_4)" max_length="40" name="u_environment_u_choice_4_" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Expiration Date" label="Expiration Date" max_length="40" name="u_expiration_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Justification for Millennium Access" max_length="40" name="u_justificatio_lennium_access" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Justification for Web Tools (valid business justification required)" max_length="40" name="u_justificatio_tion_required_" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Millennium Access Request" max_length="40" name="u_millennium_access_request" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Millennium Primary Position" max_length="40" name="u_millennium_primary_position" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Millennium Provision Activity" max_length="40" name="u_millennium_p_ision_activity" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Millennium Quaternary Position" max_length="40" name="u_millennium_q_rnary_position" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Millennium Secondary Position" max_length="40" name="u_millennium_s_ndary_position" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Millennium Tertiary Position" max_length="40" name="u_millennium_tertiary_position" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Number" label="Number" max_length="40" name="u_number" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Opened by" label="Opened by" max_length="32" name="u_opened_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone" max_length="40" name="u_phone" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Priority" label="Priority" max_length="40" name="u_priority" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Provision Status" max_length="40" name="u_provision_status" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Role Description/Justification for Access" label="Role Description/Justification for Access" max_length="40" name="u_role_descrip_ion_for_access" type="string"/>
         <element attributes="import_attribute_name=SharePoint Record ID" label="SharePoint Record ID" max_length="40" name="u_sharepoint_record_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Site" max_length="40" name="u_site" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=State" label="State" max_length="40" name="u_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Supervisor" max_length="40" name="u_supervisor" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Supervisor Supplemental Justification(u_string_web_supervisor)" max_length="40" name="u_supervisor_s_eb_supervisor_" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Supervisor Supplemental Justification(u_string_supervisor_mil)" max_length="40" name="u_supervisor_s_upervisor_mil_" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Title" max_length="40" name="u_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Training Attestation" max_length="40" name="u_training_attestation" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Type of Request" label="Type of Request" max_length="40" name="u_type_of_request" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="VA Station" max_length="40" name="u_va_station" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Web Tools Access Request" max_length="40" name="u_web_tools_access_request" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Web Tools Provision Activity" max_length="40" name="u_web_tools_provision_activity" type="string"/>
     </element>
 </database>
