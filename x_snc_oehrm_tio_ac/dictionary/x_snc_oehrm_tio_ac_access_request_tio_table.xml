@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="task" label="OEHRM Access Request " max_length="40" name="x_snc_oehrm_tio_ac_access_request_tio_table" sizeclass="45" text_index="true" type="collection">
+    <element audit="true" extends="task" label="OEHRM Access Request " max_length="40" name="x_snc_oehrm_tio_ac_access_request_tio_table" sizeclass="101" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" default="Cerner Care Account" label="Authorization level" max_length="40" name="authorization_level" type="glide_list">
             <choice>
-                <element inactive_on_update="false" label="Project Portal (MethodM) read/write" sequence="0" value="Project Portal (MethodM) read/write"/>
-                <element inactive="true" inactive_on_update="true" label="Ucern" sequence="0" value="Ucern"/>
-                <element inactive_on_update="false" label="Project Portal (MethodM) read-only" sequence="1" value="Project Portal (MethodM) read-only"/>
-                <element inactive="true" inactive_on_update="true" label="Ulearn" sequence="1" value="Ulearn"/>
-                <element inactive_on_update="false" label="eService" sequence="2" value="eService"/>
-                <element inactive="true" inactive_on_update="true" label="Flashes" sequence="2" value="Flashes"/>
-                <element inactive_on_update="false" label="Obligations" sequence="3" value="Obligations"/>
-                <element inactive_on_update="false" label="Lights On Network" sequence="4" value="Lights On Network"/>
-                <element inactive_on_update="false" label="Lights On Network Revenue Cycle" sequence="5" value="Lights On Network Revenue Cycle"/>
-                <element inactive_on_update="false" label="Millennium Access Roles" sequence="6" value="Millennium Access Roles"/>
-                <element inactive_on_update="false" label="P2Sentinel" sequence="7" value="P2Sentinel"/>
-                <element inactive_on_update="false" label="Cerner Care Account" sequence="8" value="Cerner Care Account"/>
+                <element inactive_on_update="false" label="Project Portal (MethodM) read/write" sequence="100" value="Project Portal (MethodM) read/write"/>
+                <element inactive="true" inactive_on_update="true" label="Ucern" sequence="200" value="Ucern"/>
+                <element inactive_on_update="false" label="Project Portal (MethodM) read-only" sequence="300" value="Project Portal (MethodM) read-only"/>
+                <element inactive="true" inactive_on_update="true" label="Ulearn" sequence="400" value="Ulearn"/>
+                <element inactive_on_update="false" label="eService" sequence="500" value="eService"/>
+                <element inactive="true" inactive_on_update="true" label="Flashes" sequence="600" value="Flashes"/>
+                <element inactive_on_update="false" label="Obligations" sequence="700" value="Obligations"/>
+                <element inactive_on_update="false" label="Lights On Network" sequence="800" value="Lights On Network"/>
+                <element inactive_on_update="false" label="Lights On Network Revenue Cycle" sequence="810" value="Lights On Network Revenue Cycle"/>
+                <element inactive_on_update="false" label="Millennium Access Roles" sequence="900" value="Millennium Access Roles"/>
+                <element inactive_on_update="false" label="P2Sentinel" sequence="1000" value="P2Sentinel"/>
+                <element inactive_on_update="false" label="Cerner Care Account" sequence="1100" value="Cerner Care Account"/>
             </choice>
         </element>
+        <element label="Authorization level list" max_length="4000" name="authorization_level_list" type="glide_list"/>
         <element label="Background check Result" max_length="20" name="background_check_result" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice_field="council" choice_table="x_snc_oehrm_tio_ac_access_request_tio_table" label="Council" max_length="40" name="council" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Expiration Date" max_length="40" name="expiration_date" type="glide_date"/>
@@ -64,23 +65,23 @@
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Millennium Primary Position" mandatory="true" max_length="40" name="u_choice_5" type="string">
             <choice>
-                <element inactive_on_update="false" label="VA View Only" sequence="0" value="Choice 1"/>
-                <element inactive_on_update="false" label="VA MH: Therapist/Psychologist" sequence="1" value="Choice 2"/>
-                <element inactive_on_update="false" label="VA Ambulatory: Nurse Manager" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="VA View Only" sequence="0" value="VA View Only"/>
+                <element inactive_on_update="false" label="VA MH: Therapist/Psychologist" sequence="1" value="VA MH: Therapist/Psychologist"/>
+                <element inactive_on_update="false" label="VA Ambulatory: Nurse Manager" sequence="2" value="VA Ambulatory: Nurse Manager"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Millennium Secondary Position" max_length="40" name="u_choice_6" type="string">
             <choice>
-                <element inactive_on_update="false" label="VA Ambulatory: RN" sequence="0" value="amb RN"/>
-                <element inactive_on_update="false" label="VA Advance Practice Student HPT" sequence="1" value="pract stu"/>
-                <element inactive_on_update="false" label="VA OPECC - Accounts Receivable Supervisor" sequence="2" value="OECC"/>
+                <element inactive_on_update="false" label="VA Ambulatory: RN" sequence="0" value="VA Ambulatory: RN"/>
+                <element inactive_on_update="false" label="VA Advance Practice Student HPT" sequence="1" value="VA Advance Practice Student HPT"/>
+                <element inactive_on_update="false" label="VA OPECC - Accounts Receivable Supervisor" sequence="2" value="VA OPECC - Accounts Receivable Supervisor"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Millennium Tertiary Position" max_length="40" name="u_choice_7" type="string">
             <choice>
-                <element inactive_on_update="false" label="VA Accounting - Manager" sequence="0" value="va accounting - manager"/>
-                <element inactive_on_update="false" label="VA Dental Assistant w/Class" sequence="1" value="va dental assistant w/class"/>
-                <element inactive_on_update="false" label="VA Palliative Care: Nurse Practitioner" sequence="2" value="va palliative care: nurse practitioner"/>
+                <element inactive_on_update="false" label="VA Accounting - Manager" sequence="0" value="VA Accounting - Manager"/>
+                <element inactive_on_update="false" label="VA Dental Assistant w/Class" sequence="1" value="VA Dental Assistant w/Class"/>
+                <element inactive_on_update="false" label="VA Palliative Care: Nurse Practitioner" sequence="2" value="VA Palliative Care: Nurse Practitioner"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Access Group" max_length="40" name="u_choice_accessgroup" type="glide_list">
@@ -121,9 +122,14 @@
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Millennium Quaternary Position" max_length="40" name="u_choice_quarternary" type="string">
             <choice>
-                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="0" value="Choice 3"/>
-                <element inactive_on_update="false" label="VA Analyst" sequence="0" value="va analyst"/>
-                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="VA Analyst" sequence="0" value="VA Analyst"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Requestor Type" max_length="40" name="u_choice_request_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Clinician" sequence="0" value="clinician"/>
+                <element inactive_on_update="false" label="Tester" sequence="1" value="tester"/>
+                <element inactive_on_update="false" label="Solution Expert" sequence="2" value="solution expert"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Site" max_length="40" name="u_choice_stations" type="string">

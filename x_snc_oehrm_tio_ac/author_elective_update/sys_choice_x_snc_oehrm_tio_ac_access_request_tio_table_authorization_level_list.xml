@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="authorization_level_list" table="x_snc_oehrm_tio_ac_access_request_tio_table" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>authorization_level_list</element>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Marc.Mouries</sys_created_by>
+            <sys_created_on>2021-02-24 15:19:34</sys_created_on>
+            <sys_id>2900b555db6ae0506dd2eb41ca9619b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>authorization_level_list</sys_name>
+            <sys_package display_value="OEHRM Access Management" source="x_snc_oehrm_tio_ac">85875b331bdd1010506855361a4bcb0d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OEHRM Access Management">85875b331bdd1010506855361a4bcb0d</sys_scope>
+            <sys_update_name>sys_choice_x_snc_oehrm_tio_ac_access_request_tio_table_authorization_level_list</sys_update_name>
+            <sys_updated_by>Marc.Mouries</sys_updated_by>
+            <sys_updated_on>2021-02-24 15:19:34</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>authorization_level_list</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>a</label>
+            <language>en</language>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>Marc.Mouries</sys_created_by>
+            <sys_created_on>2021-02-24 15:19:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9400b555db6ae0506dd2eb41ca9619b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Marc.Mouries</sys_updated_by>
+            <sys_updated_on>2021-02-24 15:19:34</sys_updated_on>
+            <value>a</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>authorization_level_list</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>b</label>
+            <language>en</language>
+            <name>x_snc_oehrm_tio_ac_access_request_tio_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>Marc.Mouries</sys_created_by>
+            <sys_created_on>2021-02-24 15:19:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0f003555db6ae0506dd2eb41ca96196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Marc.Mouries</sys_updated_by>
+            <sys_updated_on>2021-02-24 15:19:44</sys_updated_on>
+            <value>b</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
